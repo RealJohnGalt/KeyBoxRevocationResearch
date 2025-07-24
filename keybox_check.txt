@@ -214,6 +214,8 @@ Checking: Lanix_2362461d-d765-4c64-b9e6-0ad2c1ed3656.xml ...
 Checking: Lanix_5fc60850-6f88-40dd-84f1-5f7a445040ab.xml ...
 Checking: Lanix_7fcf9258-549f-4c78-8874-5e1c755c527c.xml ...
 Checking: Lava_77601dac-3969-43f0-9492-2a2b7f6218cd.xml ...
+  [revoked] Serial in file: 95ec197bda3f6063e0830f19eb1ea9d0
+  [revoked] Serial in file: a777b30bcfadb0789078ca1be645b83a
 Checking: Leagoo_17815b7d-9963-4071-a89c-8a4378830970.xml ...
 Checking: HSEM_12783677-69ea-40a6-a837-363f290d6686.xml ...
   [revoked] Serial in file: 3882667606589968590
@@ -231,6 +233,8 @@ Checking: Koolnee_b7e537c4-b64a-4ed1-bc01-b540cbd77647.xml ...
 Checking: Kruger&Matz_885d87a0-975e-46df-b8ab-a7defa992194.xml ...
 Checking: Lava_20c23dc1-ae97-405a-a698-98c2cf1d7c76.xml ...
 Checking: Lava_b063f5e7-f153-45fd-9a50-f813fa4b5e3b.xml ...
+  [revoked] Serial in file: f5b5528811160492fdbda0276126c024
+  [revoked] Serial in file: 85c654bf6ad94ac7f78a8d351d60775c
 Checking: Lava_e4edf6da-b547-4f22-9c86-141824df7125.xml ...
 Checking: Leagoo_740d78bd-a356-43e2-8968-33cc8bddbf6b.xml ...
   [revoked] Serial in file: 3882667606589968590
@@ -375,6 +379,8 @@ Checking: Kiowa_3cf33db7-1b89-4899-94d6-0a842d274176.xml ...
 Checking: Konrow_9bd8c614-9cf9-4a8f-b142-44f33023149d.xml ...
 Checking: Lanix_c96aede3-3eeb-45c7-bfae-874e1d476811.xml ...
 Checking: Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml ...
+  [revoked] Serial in file: d3ae9fa83749bb0d49cf377181fc7000
+  [revoked] Serial in file: 1266989c9955f471ada93e8b782d2c0f
 Checking: Lava_76988e12-1ece-4a05-9b31-b6ed3ede2b25.xml ...
 Checking: Lava_fd68e300-0d1c-48a9-9d7e-869953975199.xml ...
 Checking: Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml ...
@@ -399,6 +405,8 @@ Checking: QFX_81b0716b-164d-4a30-ae3d-2bccff5bd7a7.xml ...
 Checking: Raylan_6f05d4ea-768d-4ac7-bc14-7b7b5c6bb7f5.xml ...
 Checking: Raylan_9deb3817-8fd8-4743-a5bc-4a9c2edbeb70.xml ...
 Checking: realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml ...
+  [revoked] Serial in file: 75b5d73175dac5e6b9cd5af409eb6e15
+  [revoked] Serial in file: c83592ef396c523513b0f4fd731a7750
 Checking: ROKiT_37501089-094f-4b46-9f8c-eb5085da89ba.xml ...
 Checking: Samsung_1d1ca611-5ae6-4f52-b744-b6bb2f913257.xml ...
 Checking: Samsung_1d373597-3098-448e-9190-dd335e1fd92f.xml ...
@@ -548,8 +556,10 @@ Revoked files:
   Chuwi_8f325a1e-68ee-44da-96dc-57254d282eda.xml
   DEXP_ad85a07d-7005-4bd2-a7f5-b62157ef37bb.xml
   Hisense_a43090c7-8783-449c-8f9c-02df8bcc0705.xml
+  Lava_77601dac-3969-43f0-9492-2a2b7f6218cd.xml
   HSEM_12783677-69ea-40a6-a837-363f290d6686.xml
   INOI_2a30af25-a1be-4ba0-83ca-41bab6b5838a.xml
+  Lava_b063f5e7-f153-45fd-9a50-f813fa4b5e3b.xml
   Leagoo_740d78bd-a356-43e2-8968-33cc8bddbf6b.xml
   Leagoo_825c6299-d690-4ec3-af2c-3f3514abec16.xml
   Symphony_8b5826ac-7020-4b12-903a-26e8e9480296.xml
@@ -559,6 +569,8 @@ Revoked files:
   Prestigio_94217144-4af6-48a2-b28c-cc240421c51a.xml
   Tech_3e87922c-3985-4f5b-a2e0-3ebe4efbbb54.xml
   Kiowa_3cf33db7-1b89-4899-94d6-0a842d274176.xml
+  Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml
+  realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml
   Ulefone_e54d5ab3-4c80-4405-a299-5827d420c939.xml
   Vmobile_c82c8397-f706-4f81-97f1-07caffb0ab17.xml
 
@@ -758,7 +770,6 @@ Valid files:
   Lanix_2362461d-d765-4c64-b9e6-0ad2c1ed3656.xml
   Lanix_5fc60850-6f88-40dd-84f1-5f7a445040ab.xml
   Lanix_7fcf9258-549f-4c78-8874-5e1c755c527c.xml
-  Lava_77601dac-3969-43f0-9492-2a2b7f6218cd.xml
   Leagoo_17815b7d-9963-4071-a89c-8a4378830970.xml
   Hyundai_966ace97-104b-454b-bfc9-a2b076448ff5.xml
   iHunt_2736770c-e707-4479-b5f8-9ec7eeba3da8.xml
@@ -771,7 +782,6 @@ Valid files:
   Koolnee_b7e537c4-b64a-4ed1-bc01-b540cbd77647.xml
   Kruger&Matz_885d87a0-975e-46df-b8ab-a7defa992194.xml
   Lava_20c23dc1-ae97-405a-a698-98c2cf1d7c76.xml
-  Lava_b063f5e7-f153-45fd-9a50-f813fa4b5e3b.xml
   Lava_e4edf6da-b547-4f22-9c86-141824df7125.xml
   Leagoo_aebb3134-1b16-431d-ad7f-0139e15f19c5.xml
   Leagoo_b7cfbd7d-f670-4d30-9c1b-41437bdcd077.xml
@@ -897,7 +907,6 @@ Valid files:
   KENBO_c3a06b0c-fa56-4d3a-b9ff-6b7061d70773.xml
   Konrow_9bd8c614-9cf9-4a8f-b142-44f33023149d.xml
   Lanix_c96aede3-3eeb-45c7-bfae-874e1d476811.xml
-  Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml
   Lava_76988e12-1ece-4a05-9b31-b6ed3ede2b25.xml
   Lava_fd68e300-0d1c-48a9-9d7e-869953975199.xml
   Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml
@@ -921,7 +930,6 @@ Valid files:
   QFX_81b0716b-164d-4a30-ae3d-2bccff5bd7a7.xml
   Raylan_6f05d4ea-768d-4ac7-bc14-7b7b5c6bb7f5.xml
   Raylan_9deb3817-8fd8-4743-a5bc-4a9c2edbeb70.xml
-  realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml
   ROKiT_37501089-094f-4b46-9f8c-eb5085da89ba.xml
   Samsung_1d1ca611-5ae6-4f52-b744-b6bb2f913257.xml
   Samsung_1d373597-3098-448e-9190-dd335e1fd92f.xml
