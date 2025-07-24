@@ -1,4 +1,4 @@
 **Simple research project:**
  - Utilize a simple script to check a large repository of leaked Android device keyboxes against googleapi revocation status to determine preferential treatment.
- - Every 30 minutes it batch checks and git pushes. If there are no changes, the commit is not pushed (due to being empty).
+ - Every minute it batch checks and git pushes. If there are no changes, the commit is not pushed (due to being empty).
  - We regulary see A-tier (so to speak) companies being given preferential treatment. This can be seen with known leaked keyboxes from Samsung being given extraordinarily long rollover periods. During these periods, Google continues attesting them as strong, despite knowing it may not even be a Samsung device or a strong attested device making the request! It's that untrustworthy of a system to begin with! Meanwhile smaller smartphone companies with smaller userbases get their keys revoked immediately, negatively affecting these lower-class (non A-tier device) users.
