@@ -302,8 +302,6 @@ Checking: Leagoo_ea15eb6f-1195-44a1-a343-f6f2bf5ef8a5.xml ...
 Checking: Lenovo_10d04ac5-a2e3-4b09-8920-21306657020e.xml ...
 Checking: motorola_7f2b82f0-7d24-487e-b897-5743121f1e1b.xml ...
 Checking: motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml ...
-  [revoked] Serial in file: 1657009719460706003
-  [revoked] Serial in file: 14629235450808822995
 Checking: Multilaser_e5255ccd-bc2a-4116-9959-df3b76a1866e.xml ...
 Checking: MYFON_dedd07f0-85da-4467-b033-956eff2e5bea.xml ...
 Checking: myPhone_05aef828-95ef-4598-88c8-235e85a7f75e.xml ...
@@ -389,8 +387,6 @@ Checking: Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml ...
 Checking: Leagoo_b845cece-2253-4671-a4b8-0dc2a387284b.xml ...
 Checking: Leagoo_c8e21334-05cc-43b0-bb62-c4eb95386f07.xml ...
 Checking: motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml ...
-  [revoked] Serial in file: 12382760887107677506
-  [revoked] Serial in file: 11648272088908549083
 Checking: Multilaser_2608a1e3-25ba-4942-bb58-f1d1076c8bd5.xml ...
 Checking: Multilaser_29bfd144-e74c-4070-82bb-c154d35a7c7d.xml ...
 Checking: Multilaser_a48fdfb6-2cf1-4f4d-84b4-9f757d49d307.xml ...
@@ -568,14 +564,12 @@ Revoked files:
   Leagoo_825c6299-d690-4ec3-af2c-3f3514abec16.xml
   Symphony_8b5826ac-7020-4b12-903a-26e8e9480296.xml
   Teesso_14b69b66-5cb0-435c-a869-0fd11d61d8f7.xml
-  motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml
   OTOT_05c54cb8-31cf-413f-ab83-705803f327c6.xml
   Oukitel_e824e5fa-0691-4643-b01a-69604e4f9145.xml
   Prestigio_94217144-4af6-48a2-b28c-cc240421c51a.xml
   Tech_3e87922c-3985-4f5b-a2e0-3ebe4efbbb54.xml
   Kiowa_3cf33db7-1b89-4899-94d6-0a842d274176.xml
   Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml
-  motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml
   realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml
   Ulefone_e54d5ab3-4c80-4405-a299-5827d420c939.xml
   Vmobile_c82c8397-f706-4f81-97f1-07caffb0ab17.xml
@@ -846,6 +840,7 @@ Valid files:
   Leagoo_ea15eb6f-1195-44a1-a343-f6f2bf5ef8a5.xml
   Lenovo_10d04ac5-a2e3-4b09-8920-21306657020e.xml
   motorola_7f2b82f0-7d24-487e-b897-5743121f1e1b.xml
+  motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml
   Multilaser_e5255ccd-bc2a-4116-9959-df3b76a1866e.xml
   MYFON_dedd07f0-85da-4467-b033-956eff2e5bea.xml
   myPhone_05aef828-95ef-4598-88c8-235e85a7f75e.xml
@@ -917,6 +912,7 @@ Valid files:
   Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml
   Leagoo_b845cece-2253-4671-a4b8-0dc2a387284b.xml
   Leagoo_c8e21334-05cc-43b0-bb62-c4eb95386f07.xml
+  motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml
   Multilaser_2608a1e3-25ba-4942-bb58-f1d1076c8bd5.xml
   Multilaser_29bfd144-e74c-4070-82bb-c154d35a7c7d.xml
   Multilaser_a48fdfb6-2cf1-4f4d-84b4-9f757d49d307.xml
