@@ -80,6 +80,8 @@ Checking: Chuwi_8f325a1e-68ee-44da-96dc-57254d282eda.xml ...
   [revoked] Serial in file: 3882667606589968590
 Checking: Conquest_f26c0ae3-7aef-46c9-9de6-ad68df72f836.xml ...
 Checking: Coolpad_102bf573-9159-46ed-ad48-de87ecd1786d.xml ...
+  [revoked] Serial in file: 17784500337716305533
+  [revoked] Serial in file: 6720999731663068646
 Checking: Cubot_47d6c5f9-3e5b-48ad-989c-c31482be6752.xml ...
 Checking: Cubot_6a487d87-14a5-42cd-bdb1-e6c42b167bc6.xml ...
 Checking: Cubot_94abfd72-8b04-45c0-bbc7-7c763fd49436.xml ...
@@ -247,6 +249,8 @@ Checking: MI_1a86e996-56df-4b5d-8ae9-6d87576d43e1.xml ...
 Checking: Multilaser_2dc948eb-63a0-4b7d-b433-4d7715d52e49.xml ...
 Checking: Multilaser_9efe77dd-ed5f-45d2-8bcd-866a0890026b.xml ...
 Checking: Nokia_0d53f5ca-28e8-4a5d-acf2-d0d88d26bbae.xml ...
+  [revoked] Serial in file: a2686851fb08c4cc0bfe2178102db951
+  [revoked] Serial in file: 471c7df99cf520e073a3f3abe48990bb
 Checking: NUU_9761c8a2-dfd0-4b5b-9f27-aac48b1e87bb.xml ...
 Checking: Oukitel_2584ff3b-0cf6-4603-bde6-3dc8ce2a1f41.xml ...
 Checking: Oukitel_36fe0e39-e172-4d88-b82a-ea11b401f03d.xml ...
@@ -302,11 +306,17 @@ Checking: Leagoo_ea15eb6f-1195-44a1-a343-f6f2bf5ef8a5.xml ...
 Checking: Lenovo_10d04ac5-a2e3-4b09-8920-21306657020e.xml ...
 Checking: motorola_7f2b82f0-7d24-487e-b897-5743121f1e1b.xml ...
 Checking: motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml ...
+  [revoked] Serial in file: 1657009719460706003
+  [revoked] Serial in file: 14629235450808822995
 Checking: Multilaser_e5255ccd-bc2a-4116-9959-df3b76a1866e.xml ...
 Checking: MYFON_dedd07f0-85da-4467-b033-956eff2e5bea.xml ...
 Checking: myPhone_05aef828-95ef-4598-88c8-235e85a7f75e.xml ...
 Checking: Nokia_7f0a0888-dce1-441b-8b65-810bcff73c0f.xml ...
+  [revoked] Serial in file: 5290075768011449057
+  [revoked] Serial in file: 17380573025504143
 Checking: Nokia_ae4f783f-d9b8-48db-9644-f7ac58860fbb.xml ...
+  [revoked] Serial in file: 12727882769221521191
+  [revoked] Serial in file: 16867976188250038576
 Checking: OTOT_05c54cb8-31cf-413f-ab83-705803f327c6.xml ...
   [revoked] Serial in file: 3882667606589968590
 Checking: Oukitel_3b0eebf1-8efd-43b6-b675-64826c45dcc4.xml ...
@@ -387,6 +397,8 @@ Checking: Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml ...
 Checking: Leagoo_b845cece-2253-4671-a4b8-0dc2a387284b.xml ...
 Checking: Leagoo_c8e21334-05cc-43b0-bb62-c4eb95386f07.xml ...
 Checking: motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml ...
+  [revoked] Serial in file: 12382760887107677506
+  [revoked] Serial in file: 11648272088908549083
 Checking: Multilaser_2608a1e3-25ba-4942-bb58-f1d1076c8bd5.xml ...
 Checking: Multilaser_29bfd144-e74c-4070-82bb-c154d35a7c7d.xml ...
 Checking: Multilaser_a48fdfb6-2cf1-4f4d-84b4-9f757d49d307.xml ...
@@ -453,8 +465,13 @@ Checking: myPhone_bbe76ac8-aeda-4d10-84bd-21f0c490df72.xml ...
 Checking: Neffos_38a9c799-f1a4-4a5f-8770-cb47b4c6cda0.xml ...
 Checking: NOA_78ee3c6a-05e4-41ae-99fe-c7f4f44975e3.xml ...
 Checking: Nokia_76fe7f72-dc57-4129-8777-5946ecf61fdb.xml ...
+  [revoked] Serial in file: f6e446ac740240c40da061310559b292
+  [revoked] Serial in file: 34b4a0d417b0ed62fd51624640d6824d
 Checking: Nokia_9f795e2d-db47-4f6a-859e-9c84369415df.xml ...
+  [revoked] Serial in file: 4887373222093342322
+  [revoked] Serial in file: 16949723272978169937
 Checking: Nokia_a41c3217-2014-4977-a400-b0d1f23e458a.xml ...
+  [revoked] Serial in file: ce8f3231bc015ff94eedf5ef5cee23fb
 Checking: OALE_f81bebb9-b1cc-4986-89fe-8722531f0560.xml ...
 Checking: Oukitel_328120ed-4e7c-4ee2-85eb-d2ec4c265f69.xml ...
 Checking: Oukitel_3f5c8406-da24-47a5-86b3-7827198cf152.xml ...
@@ -554,6 +571,7 @@ Revoked files:
   Bluedigit_d2604652-e363-4cdb-879c-b2bea4028435.xml
   Bluedigit_eac30c85-c654-45dd-9be4-5588d8ba7846.xml
   Chuwi_8f325a1e-68ee-44da-96dc-57254d282eda.xml
+  Coolpad_102bf573-9159-46ed-ad48-de87ecd1786d.xml
   DEXP_ad85a07d-7005-4bd2-a7f5-b62157ef37bb.xml
   Hisense_a43090c7-8783-449c-8f9c-02df8bcc0705.xml
   Lava_77601dac-3969-43f0-9492-2a2b7f6218cd.xml
@@ -562,15 +580,23 @@ Revoked files:
   Lava_b063f5e7-f153-45fd-9a50-f813fa4b5e3b.xml
   Leagoo_740d78bd-a356-43e2-8968-33cc8bddbf6b.xml
   Leagoo_825c6299-d690-4ec3-af2c-3f3514abec16.xml
+  Nokia_0d53f5ca-28e8-4a5d-acf2-d0d88d26bbae.xml
   Symphony_8b5826ac-7020-4b12-903a-26e8e9480296.xml
   Teesso_14b69b66-5cb0-435c-a869-0fd11d61d8f7.xml
+  motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml
+  Nokia_7f0a0888-dce1-441b-8b65-810bcff73c0f.xml
+  Nokia_ae4f783f-d9b8-48db-9644-f7ac58860fbb.xml
   OTOT_05c54cb8-31cf-413f-ab83-705803f327c6.xml
   Oukitel_e824e5fa-0691-4643-b01a-69604e4f9145.xml
   Prestigio_94217144-4af6-48a2-b28c-cc240421c51a.xml
   Tech_3e87922c-3985-4f5b-a2e0-3ebe4efbbb54.xml
   Kiowa_3cf33db7-1b89-4899-94d6-0a842d274176.xml
   Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml
+  motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml
   realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml
+  Nokia_76fe7f72-dc57-4129-8777-5946ecf61fdb.xml
+  Nokia_9f795e2d-db47-4f6a-859e-9c84369415df.xml
+  Nokia_a41c3217-2014-4977-a400-b0d1f23e458a.xml
   Ulefone_e54d5ab3-4c80-4405-a299-5827d420c939.xml
   Vmobile_c82c8397-f706-4f81-97f1-07caffb0ab17.xml
 
@@ -640,7 +666,6 @@ Valid files:
   BQ_fe6b0d4a-7b4a-4ecb-95f3-3a2604e1b1f3.xml
   Cherry_a81b7ee9-27fb-409a-bcba-50cdd30fb71a.xml
   Conquest_f26c0ae3-7aef-46c9-9de6-ad68df72f836.xml
-  Coolpad_102bf573-9159-46ed-ad48-de87ecd1786d.xml
   Cubot_47d6c5f9-3e5b-48ad-989c-c31482be6752.xml
   Cubot_6a487d87-14a5-42cd-bdb1-e6c42b167bc6.xml
   Cubot_94abfd72-8b04-45c0-bbc7-7c763fd49436.xml
@@ -789,7 +814,6 @@ Valid files:
   MI_1a86e996-56df-4b5d-8ae9-6d87576d43e1.xml
   Multilaser_2dc948eb-63a0-4b7d-b433-4d7715d52e49.xml
   Multilaser_9efe77dd-ed5f-45d2-8bcd-866a0890026b.xml
-  Nokia_0d53f5ca-28e8-4a5d-acf2-d0d88d26bbae.xml
   NUU_9761c8a2-dfd0-4b5b-9f27-aac48b1e87bb.xml
   Oukitel_2584ff3b-0cf6-4603-bde6-3dc8ce2a1f41.xml
   Oukitel_36fe0e39-e172-4d88-b82a-ea11b401f03d.xml
@@ -840,12 +864,9 @@ Valid files:
   Leagoo_ea15eb6f-1195-44a1-a343-f6f2bf5ef8a5.xml
   Lenovo_10d04ac5-a2e3-4b09-8920-21306657020e.xml
   motorola_7f2b82f0-7d24-487e-b897-5743121f1e1b.xml
-  motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml
   Multilaser_e5255ccd-bc2a-4116-9959-df3b76a1866e.xml
   MYFON_dedd07f0-85da-4467-b033-956eff2e5bea.xml
   myPhone_05aef828-95ef-4598-88c8-235e85a7f75e.xml
-  Nokia_7f0a0888-dce1-441b-8b65-810bcff73c0f.xml
-  Nokia_ae4f783f-d9b8-48db-9644-f7ac58860fbb.xml
   Oukitel_3b0eebf1-8efd-43b6-b675-64826c45dcc4.xml
   Oukitel_b57dc866-5b0c-45c7-8940-13acc02d68ff.xml
   Oukitel_c0490ae8-665c-4603-ab0c-3959d79e3a44.xml
@@ -912,7 +933,6 @@ Valid files:
   Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml
   Leagoo_b845cece-2253-4671-a4b8-0dc2a387284b.xml
   Leagoo_c8e21334-05cc-43b0-bb62-c4eb95386f07.xml
-  motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml
   Multilaser_2608a1e3-25ba-4942-bb58-f1d1076c8bd5.xml
   Multilaser_29bfd144-e74c-4070-82bb-c154d35a7c7d.xml
   Multilaser_a48fdfb6-2cf1-4f4d-84b4-9f757d49d307.xml
@@ -975,9 +995,6 @@ Valid files:
   myPhone_bbe76ac8-aeda-4d10-84bd-21f0c490df72.xml
   Neffos_38a9c799-f1a4-4a5f-8770-cb47b4c6cda0.xml
   NOA_78ee3c6a-05e4-41ae-99fe-c7f4f44975e3.xml
-  Nokia_76fe7f72-dc57-4129-8777-5946ecf61fdb.xml
-  Nokia_9f795e2d-db47-4f6a-859e-9c84369415df.xml
-  Nokia_a41c3217-2014-4977-a400-b0d1f23e458a.xml
   OALE_f81bebb9-b1cc-4986-89fe-8722531f0560.xml
   Oukitel_328120ed-4e7c-4ee2-85eb-d2ec4c265f69.xml
   Oukitel_3f5c8406-da24-47a5-86b3-7827198cf152.xml
