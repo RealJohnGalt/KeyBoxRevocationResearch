@@ -424,6 +424,8 @@ Checking: Samsung_1d1ca611-5ae6-4f52-b744-b6bb2f913257.xml ...
 Checking: Samsung_1d373597-3098-448e-9190-dd335e1fd92f.xml ...
 Checking: Samsung_2c515d26-f28f-4863-8778-170036d7e963.xml ...
 Checking: Samsung_5bb2159d-9f28-4b40-aa46-ed33ab3a9a4b.xml ...
+  [revoked] Serial in file: 51680223b7de7ec84b51dc9a51c52b38
+  [revoked] Serial in file: 1380a36b8e15b90428a50a83744fdee7
 Checking: Samsung_725da03e-67b3-463c-a281-40ab2d2f4202.xml ...
 Checking: Samsung_8e36b7d5-8484-4de3-8486-c4e514a9c4c0.xml ...
 Checking: Samsung_9ea40fa4-3fc0-43a3-a7ba-cbcce799306e.xml ...
@@ -596,6 +598,7 @@ Revoked files:
   Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml
   motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml
   realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml
+  Samsung_5bb2159d-9f28-4b40-aa46-ed33ab3a9a4b.xml
   Samsung_cae1e744-7157-41ed-8c81-d8c93fba4fbb.xml
   Nokia_76fe7f72-dc57-4129-8777-5946ecf61fdb.xml
   Nokia_9f795e2d-db47-4f6a-859e-9c84369415df.xml
@@ -957,7 +960,6 @@ Valid files:
   Samsung_1d1ca611-5ae6-4f52-b744-b6bb2f913257.xml
   Samsung_1d373597-3098-448e-9190-dd335e1fd92f.xml
   Samsung_2c515d26-f28f-4863-8778-170036d7e963.xml
-  Samsung_5bb2159d-9f28-4b40-aa46-ed33ab3a9a4b.xml
   Samsung_725da03e-67b3-463c-a281-40ab2d2f4202.xml
   Samsung_8e36b7d5-8484-4de3-8486-c4e514a9c4c0.xml
   Samsung_9ea40fa4-3fc0-43a3-a7ba-cbcce799306e.xml
