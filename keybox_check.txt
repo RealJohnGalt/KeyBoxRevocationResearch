@@ -1,316 +1,880 @@
 Checking: 2E_328772e9-824e-4720-a1d4-55c37c474a0f.xml ...
+  [revoked] Serial in file: 480604181613153693
+  [revoked] Serial in file: 8529039518150983456
 Checking: Accent_13da79b7-a133-4bdd-a4b9-0f794389ea66.xml ...
+  [revoked] Serial in file: 5680519707671252451
+  [revoked] Serial in file: 5301832630808147502
 Checking: Aiwa_51076fee-f2fa-4573-b19e-48a4acf3e685.xml ...
+  [revoked] Serial in file: 13016126258231215997
+  [revoked] Serial in file: 9001085430538171530
 Checking: Aiwa_76e0d66e-6401-42d5-931a-70ddb51ba792.xml ...
+  [revoked] Serial in file: 2768891787792067213
+  [revoked] Serial in file: 9103571325247522076
 Checking: Aiwa_b6c0735d-2a79-465f-861e-94210cf500b1.xml ...
+  [revoked] Serial in file: 14817510909701213406
+  [revoked] Serial in file: 11236906127068129534
   [revoked] Serial in file: 3882667606589968590
 Checking: AllCall_bfec2384-e6aa-49f5-ba24-4371afa066dd.xml ...
+  [revoked] Serial in file: 14198390392298245840
+  [revoked] Serial in file: 15093573341101648315
 Checking: AllCall_c0f41642-0cfe-449a-8fe8-11e7267a464c.xml ...
+  [revoked] Serial in file: 7205795107228334403
+  [revoked] Serial in file: 10856886965364827608
 Checking: AllCall_e1702868-c6ef-4105-8a1c-5bbb615fa9a2.xml ...
+  [revoked] Serial in file: 5434348262883859000
+  [revoked] Serial in file: 16083688311809392027
 Checking: AllCall_e1e5ffcd-be97-4a4e-bf79-fda09bbf4f3a.xml ...
+  [revoked] Serial in file: 17281477583074560859
+  [revoked] Serial in file: 6266234537693127606
 Checking: Artel_63ebdaa9-bf7c-4d73-b8ec-e7bd2038e6eb.xml ...
+  [revoked] Serial in file: 10151534552652491358
+  [revoked] Serial in file: 7296833300459271138
 Checking: Asanzo_4e5411f1-17e1-4d9a-a46c-4952160ef11f.xml ...
+  [revoked] Serial in file: 8254697492792340289
+  [revoked] Serial in file: 540776138640282105
 Checking: ASTON_bd800dcc-f4bf-4b50-945f-df6dce34bf1b.xml ...
+  [revoked] Serial in file: 12412861312283377620
+  [revoked] Serial in file: 7869483650116674081
 Checking: ASUS_0a200bcb-2455-4635-a5e2-699c0f3a8a2b.xml ...
+  [revoked] Serial in file: 11926424219521619799
+  [revoked] Serial in file: 15237602838318511633
 Checking: ASUS_1a099a10-ba74-4b53-9bef-0f69f9196b5c.xml ...
+  [revoked] Serial in file: 12884658342597445016
+  [revoked] Serial in file: 1999654973970450856
 Checking: ASUS_3d257805-3491-4520-92b9-0c579461b4de.xml ...
+  [revoked] Serial in file: 1879064933324107303
+  [revoked] Serial in file: 4537107101591365493
 Checking: ASUS_434c9a67-25a5-405e-b4ff-8d98bd2f1cc5.xml ...
+  [revoked] Serial in file: 15921532954798316750
+  [revoked] Serial in file: 1396669393441019817
 Checking: ASUS_8bdebdd5-6ae7-4c4f-a1ab-49f8158282a3.xml ...
+  [revoked] Serial in file: 5618217174712862186
+  [revoked] Serial in file: 17205637386114826734
 Checking: ASUS_bd8ecfdc-d585-4c4a-8778-df8c77e3db40.xml ...
+  [revoked] Serial in file: 1636121710021447406
+  [revoked] Serial in file: 13463063328981244040
 Checking: ASUS_cc6bf703-92fd-4267-b897-ff0a92a24fc4.xml ...
+  [revoked] Serial in file: 4699063862646086612
+  [revoked] Serial in file: 9295485713364907827
 Checking: Attila_bf242626-2d35-46fa-93ce-13391128b189.xml ...
+  [revoked] Serial in file: 5984926447889374946
+  [revoked] Serial in file: 11426090564971154373
   [revoked] Serial in file: 3882667606589968590
 Checking: Beyond_d9d554bd-6669-40e2-b383-9d9b81f965f7.xml ...
+  [revoked] Serial in file: 15172445855294190836
+  [revoked] Serial in file: 3057108487802651567
 Checking: Black_61ba1366-b0b0-482c-89d3-2f418b7f251b.xml ...
+  [revoked] Serial in file: 7613098262339573055
+  [revoked] Serial in file: 3596539850627881994
 Checking: Black_b83efba1-0829-45c0-aa03-308db3a50957.xml ...
+  [revoked] Serial in file: 199057101012992147
+  [revoked] Serial in file: 5248101080192957782
 Checking: Black_f0f2b528-de8d-4754-8b87-ecdd5ab8984f.xml ...
+  [revoked] Serial in file: 18325290250999405838
+  [revoked] Serial in file: 11864459874847653949
 Checking: Blackview_0ca0f998-ed00-4930-a2e0-6c6aeb0361c1.xml ...
+  [revoked] Serial in file: 17346013386575366514
+  [revoked] Serial in file: 13816906113985538291
 Checking: Blackview_25e18a20-75cf-4888-bf4a-a4713f090352.xml ...
+  [revoked] Serial in file: 12440699974482646153
+  [revoked] Serial in file: 2448745737464712437
 Checking: Blackview_3d5eb9c4-a4d1-437e-9b71-212971fa0868.xml ...
+  [revoked] Serial in file: 10970760747142499724
+  [revoked] Serial in file: 852178832467359626
 Checking: Blackview_424b67a9-3099-405c-b210-d5a3c3295488.xml ...
+  [revoked] Serial in file: 2036103400951746695
+  [revoked] Serial in file: 13158167003445780030
 Checking: Blackview_43db5bc0-73c1-43d4-a580-7457975063a4.xml ...
+  [revoked] Serial in file: 10430052664608158840
+  [revoked] Serial in file: 18127040716910446400
 Checking: Blackview_4b0b4b84-c552-4996-962b-f67be4284160.xml ...
+  [revoked] Serial in file: 3369217829809644472
+  [revoked] Serial in file: 10165912335281309620
 Checking: Blackview_77d83dd2-33a0-4e65-84c7-1cd56673497d.xml ...
+  [revoked] Serial in file: 18065947661702255587
+  [revoked] Serial in file: 12993233471673097386
 Checking: Blackview_7c03c2d9-4c32-4b61-ba5d-95fba548f3fd.xml ...
+  [revoked] Serial in file: 6078445944835408463
+  [revoked] Serial in file: 12347411428157333921
 Checking: Blackview_8c12e52e-ad8a-4de7-9317-3f428e2e4b57.xml ...
+  [revoked] Serial in file: 18017139757995036617
+  [revoked] Serial in file: 10588157332417374689
 Checking: Blackview_b28ddb48-5785-4887-8fe4-c494fad8747b.xml ...
+  [revoked] Serial in file: 12750535224764473269
+  [revoked] Serial in file: 11583477599706239186
 Checking: Blackview_cd044e45-2808-4ffd-ad82-ba311f6e2bff.xml ...
+  [revoked] Serial in file: 6314499094396392336
+  [revoked] Serial in file: 10894974863040932297
   [revoked] Serial in file: 3882667606589968590
 Checking: Blackview_d4ba7fe8-57b3-42da-ba0b-5e8d54fc89a9.xml ...
+  [revoked] Serial in file: 9789376583919182496
+  [revoked] Serial in file: 6431861224350822417
 Checking: Blackview_fc954a79-7938-49f9-b35d-35753dd381f4.xml ...
+  [revoked] Serial in file: 10987203695478596553
+  [revoked] Serial in file: 690188874362017322
 Checking: Blaupunkt_1e14a30b-3102-4f2f-9bca-65b4feea6fa5.xml ...
+  [revoked] Serial in file: 3492469437441115310
+  [revoked] Serial in file: 4876716351737736874
 Checking: BLU_13c1eddf-18d6-4556-acac-c46cbfd2c75b.xml ...
+  [revoked] Serial in file: b36d739e5f3187eea447c72883d568fd
+  [revoked] Serial in file: 4c96df749aba51868e25fa11fdb45471
 Checking: BLU_1861e326-c0a4-410b-b437-25facfd0e1ca.xml ...
+  [revoked] Serial in file: 14954278535866762424
+  [revoked] Serial in file: 4771722278105691179
 Checking: BLU_1ca44992-40a7-4223-93de-0ec773e6a0a1.xml ...
+  [revoked] Serial in file: 3136911470354531551
+  [revoked] Serial in file: 5721411531008630466
 Checking: BLU_1d10659c-661e-4c1e-97b8-8b1cf6c5326d.xml ...
+  [revoked] Serial in file: 7838860221554878142
+  [revoked] Serial in file: 10658388162885226188
 Checking: BLU_21cf01b7-e376-4faf-a70b-7dcb832a74c4.xml ...
+  [revoked] Serial in file: 11446673340309325834
+  [revoked] Serial in file: 5595868435203221182
   [revoked] Serial in file: 3882667606589968590
 Checking: BLU_3cb15f34-289c-4f18-b854-44796e3c958a.xml ...
+  [revoked] Serial in file: 4244112697541675905
+  [revoked] Serial in file: 6384110265612868787
 Checking: BLU_3d549db2-2ecd-42f9-afe1-bb935d169c92.xml ...
+  [revoked] Serial in file: 17092629720176441172
+  [revoked] Serial in file: 8999610186873459994
 Checking: BLU_4505c8ce-ccb4-44a6-aa80-2a77a79336e8.xml ...
+  [revoked] Serial in file: da91907fc06f7265ce14e0f5ecef881
+  [revoked] Serial in file: 3c97bc8b128e27bd86dedbc356799368
 Checking: BLU_4b66cbf9-7689-4ced-9059-98b6f28c48b4.xml ...
+  [revoked] Serial in file: 11621262906739291933
+  [revoked] Serial in file: 8266499755403157000
 Checking: BLU_58dc05a1-5c85-4fc4-bfd3-e4956dcd6024.xml ...
+  [revoked] Serial in file: 4777528291804108106
+  [revoked] Serial in file: 4190734131941970078
 Checking: BLU_6e533afd-32e5-4404-94f5-2d10837721e6.xml ...
+  [revoked] Serial in file: 5559493163672953260
+  [revoked] Serial in file: 6215428909180652906
 Checking: BLU_76178b7e-91d9-473b-ba88-b2fa1d67a738.xml ...
+  [revoked] Serial in file: 207950344729808958
+  [revoked] Serial in file: 12711003165437899524
 Checking: BLU_85a9d5a1-b902-4f83-9d38-b4aca4baa5b1.xml ...
+  [revoked] Serial in file: ddf1398f67049a387200a662fb5966ba
+  [revoked] Serial in file: b4b44777fb2abd218763ad53c859e4f2
 Checking: BLU_927e0e9b-3d60-4787-b1a0-f0e897534451.xml ...
+  [revoked] Serial in file: 3469314107818190283
+  [revoked] Serial in file: 4244194439563509169
 Checking: BLU_b5553fb2-ea65-4311-97a5-717441de18f7.xml ...
+  [revoked] Serial in file: 9674823878761284737
+  [revoked] Serial in file: 7906519856644422352
 Checking: BLU_b5cedfb1-4449-4772-8854-7617ecf52616.xml ...
+  [revoked] Serial in file: f1f4523186c603dcdda514432a0d9158
+  [revoked] Serial in file: c4303465bd32362fc6fed4a01a3f19bd
 Checking: BLU_b927c871-7734-4124-8b07-aa8056484f37.xml ...
+  [revoked] Serial in file: 2305953910318018828
+  [revoked] Serial in file: 2043570936370924916
 Checking: BLU_caa0947f-6f9c-46a1-856f-3d7e6c598741.xml ...
+  [revoked] Serial in file: 8877826622964435265
+  [revoked] Serial in file: 2058929095613872674
   [revoked] Serial in file: 3882667606589968590
 Checking: BLU_e42f45f6-5552-4c3d-9115-8aa9d048aee9.xml ...
+  [revoked] Serial in file: 15783291925226266668
+  [revoked] Serial in file: 8247663190738773719
 Checking: Bluedigit_17b25b66-8723-49a3-99eb-efbf4fbe7905.xml ...
+  [revoked] Serial in file: 16177501592008491498
+  [revoked] Serial in file: 2967793327131926569
 Checking: Bluedigit_d2604652-e363-4cdb-879c-b2bea4028435.xml ...
+  [revoked] Serial in file: 4001041980790475872
+  [revoked] Serial in file: 6024981545325240429
   [revoked] Serial in file: 3882667606589968590
 Checking: Bluedigit_eac30c85-c654-45dd-9be4-5588d8ba7846.xml ...
+  [revoked] Serial in file: 1042692182988543064
+  [revoked] Serial in file: 12740123250902511353
   [revoked] Serial in file: 3882667606589968590
 Checking: BLU_f557730c-bedf-4600-83d5-f7264f442a99.xml ...
+  [revoked] Serial in file: 4257270056053004015
+  [revoked] Serial in file: 2626986754774414337
 Checking: BQ_0407d753-34d7-4be8-8551-12d2ee1ebf5f.xml ...
+  [revoked] Serial in file: 6958416381968277445
+  [revoked] Serial in file: 8943524085641609140
 Checking: BQ_11ecff23-f2f0-4b7f-9680-c0730fbf5ab2.xml ...
+  [revoked] Serial in file: 4246735952745635362
+  [revoked] Serial in file: 5520033523652459880
 Checking: BQ_3869f27b-ce64-4dd4-97e5-1b295f6b5299.xml ...
+  [revoked] Serial in file: 297a0c96bc43c49b06a62504973af84c
+  [revoked] Serial in file: bc7638621c792e3acfd57ea7a2ce9e61
 Checking: BQ_47b5c2eb-940a-49b8-9283-d96494727634.xml ...
+  [revoked] Serial in file: 13583584461733590426
+  [revoked] Serial in file: 9240395337420721113
 Checking: BQ_7ec9a2d0-4cb5-4b3f-bbed-8d88fbea8f18.xml ...
+  [revoked] Serial in file: 10755148690298972126
+  [revoked] Serial in file: 480415828407507926
 Checking: BQ_c9345230-7303-4179-9f81-63b9558e4b56.xml ...
+  [revoked] Serial in file: 14138404312546869696
+  [revoked] Serial in file: 15851093099150490149
 Checking: BQ_d6f44457-d59a-4edf-867c-fec1af1567c8.xml ...
+  [revoked] Serial in file: 4774604430491764237
+  [revoked] Serial in file: 4133931105009617417
 Checking: BQ_dc8daeeb-f307-40a7-ac38-0ac387ffc1db.xml ...
+  [revoked] Serial in file: 4596326472739479633
+  [revoked] Serial in file: 6472230652708713796
 Checking: BQ_fe6b0d4a-7b4a-4ecb-95f3-3a2604e1b1f3.xml ...
+  [revoked] Serial in file: 6656867517991320572
+  [revoked] Serial in file: 18235090640525562043
 Checking: Cherry_a81b7ee9-27fb-409a-bcba-50cdd30fb71a.xml ...
+  [revoked] Serial in file: 356158660562279081
+  [revoked] Serial in file: 91053910678415217
 Checking: Chuwi_8f325a1e-68ee-44da-96dc-57254d282eda.xml ...
+  [revoked] Serial in file: 10948196528529272707
+  [revoked] Serial in file: 12685566618912378853
   [revoked] Serial in file: 3882667606589968590
 Checking: Conquest_f26c0ae3-7aef-46c9-9de6-ad68df72f836.xml ...
+  [revoked] Serial in file: e2938b086c81cf2606e4bd5976c57235
+  [revoked] Serial in file: 79bc8f505652e1cd738ca0a5e840ce92
 Checking: Coolpad_102bf573-9159-46ed-ad48-de87ecd1786d.xml ...
   [revoked] Serial in file: 17784500337716305533
   [revoked] Serial in file: 6720999731663068646
 Checking: Cubot_47d6c5f9-3e5b-48ad-989c-c31482be6752.xml ...
+  [revoked] Serial in file: 13203273137387840871
+  [revoked] Serial in file: 15616293595454339425
 Checking: Cubot_6a487d87-14a5-42cd-bdb1-e6c42b167bc6.xml ...
+  [revoked] Serial in file: 2999918015350439217
+  [revoked] Serial in file: 3890844563203715886
 Checking: Cubot_94abfd72-8b04-45c0-bbc7-7c763fd49436.xml ...
+  [revoked] Serial in file: 10520654472332114603
+  [revoked] Serial in file: 4403661617670347298
 Checking: Cubot_caad2e87-cb52-4690-a89d-ee5eef53d372.xml ...
+  [revoked] Serial in file: 16029080075788417340
+  [revoked] Serial in file: 9942499484304875602
 Checking: Cubot_da1e10d6-4798-400f-a406-2fa3415a6634.xml ...
+  [revoked] Serial in file: 13108834261411770917
+  [revoked] Serial in file: 14424249009018232651
 Checking: DEXP_131c5696-e8ee-4596-bc34-462d3b83c7ca.xml ...
+  [revoked] Serial in file: 13449635f3095cc0a7491bcaa11c9eb5
+  [revoked] Serial in file: 9615ed19ad888ade8a808f4384b5eb10
 Checking: DEXP_ad85a07d-7005-4bd2-a7f5-b62157ef37bb.xml ...
+  [revoked] Serial in file: 2610722164823401236
+  [revoked] Serial in file: 13073665550363658569
   [revoked] Serial in file: 3882667606589968590
 Checking: DEXP_c208de97-83a8-4432-a9f5-890634604290.xml ...
+  [revoked] Serial in file: 10386951761120887857
+  [revoked] Serial in file: 14276430278421030590
 Checking: Digi_730b4320-3c55-4913-a0c5-d6380337cea1.xml ...
+  [revoked] Serial in file: 8999437994196293062
+  [revoked] Serial in file: 2365803809956636991
 Checking: Ding_635f664a-8bbc-41f6-9a6e-e73bcac3efc1.xml ...
+  [revoked] Serial in file: 5912429558508703177
+  [revoked] Serial in file: 7733064033910177163
 Checking: Ding_fe1b1ad7-ee48-4ef4-8bc8-db7aed4cdaa0.xml ...
+  [revoked] Serial in file: 16145522964484803984
+  [revoked] Serial in file: 16123064628595456725
 Checking: Doogee_13b4bfd9-dc61-4a27-a701-0b99dac11a9e.xml ...
+  [revoked] Serial in file: 15608854798728901149
+  [revoked] Serial in file: 4585112902792401582
 Checking: Doogee_3b1685fd-53bd-4a8f-a06a-8e342a84c1ca.xml ...
+  [revoked] Serial in file: e6034a08361a8aa901a2fedfa4dce3b
+  [revoked] Serial in file: dbd25c993e9be47ff82178c4adbca36
 Checking: Doogee_3c6754a0-0eb7-41d4-a666-24fcbdce9741.xml ...
+  [revoked] Serial in file: 9135401c2a182f1faf7db7f83be9269e
+  [revoked] Serial in file: 5c56c6cb938e171e2963b0c27052fd96
 Checking: Doogee_41636ed3-d8eb-4742-b1f7-7afabcace7a6.xml ...
+  [revoked] Serial in file: 71bbfa3e3c91515732e97c3395f2446d
+  [revoked] Serial in file: 4a8da09429f03c9bdcc1fe9d944a4460
 Checking: Doogee_52276fba-1f08-4afe-8eeb-82ca72049cf5.xml ...
+  [revoked] Serial in file: 9718224194265069144
+  [revoked] Serial in file: 705967509919387804
 Checking: Doogee_556fc5d8-0d38-471c-b4bf-23363c957c7d.xml ...
+  [revoked] Serial in file: eedd350c1c345cc7a33a6fb3c843434b
+  [revoked] Serial in file: a9aee7973c3dc9237b2460535956f7f7
 Checking: Doogee_59ddca38-a37c-4cb6-bcb4-f1eea7d874d2.xml ...
+  [revoked] Serial in file: cc4610d83858753b037c801400f515e9
+  [revoked] Serial in file: 571aafec5d68d1ddbf88dea03ee1e977
 Checking: Doogee_6c7c57f4-dd67-456f-a287-4909366d6c78.xml ...
+  [revoked] Serial in file: 88e69bec924183d8cfc1694794a54455
+  [revoked] Serial in file: 211f135c362ed16f7d1af36c21c631bb
 Checking: Doogee_6d53f5dd-8d3c-46e1-ba05-345f68692d7d.xml ...
+  [revoked] Serial in file: 2c3333350ff7fe82eb92326dbc5a8343
+  [revoked] Serial in file: 2f943c79472ed888b34d169b42831c98
 Checking: Doogee_875c16b3-76cd-424a-8ade-cc711c798d84.xml ...
+  [revoked] Serial in file: 5556036992137702668
+  [revoked] Serial in file: 6432276418654803146
 Checking: Doogee_8b92b52d-9224-4fb6-8f12-f131bbc41c16.xml ...
+  [revoked] Serial in file: b0f4eb8b70fdea495ad8e79bf7d2878b
+  [revoked] Serial in file: f753a805976b3d6fb2ee0fc494f5bd1a
 Checking: Doogee_9ca6feb8-9c1a-4012-8f1b-e8c033a4002d.xml ...
+  [revoked] Serial in file: 6ffd11a7535aa71e8bd96e2a8438161f
+  [revoked] Serial in file: 857ee301315df680e6b04e34c4bf71c2
 Checking: Doogee_a2743ca8-0323-4cc0-b92e-3a134265e858.xml ...
+  [revoked] Serial in file: 32704883a52c516fe88cfe2543b8793d
+  [revoked] Serial in file: ad18b4facfa6ab580a8e594559e367a5
 Checking: Doogee_a89c3258-8988-48dc-8b0c-02d46f567c09.xml ...
+  [revoked] Serial in file: c008a47de3341cbf1cec5f37c16afe8a
+  [revoked] Serial in file: 55d904bf29daadaea3571789d12f1b77
 Checking: Doogee_ada26b3e-1427-4592-bf5c-a6ebf5e790c3.xml ...
+  [revoked] Serial in file: 630c3c1fd533b475f3bd8643be56855b
+  [revoked] Serial in file: 43de5a22442aab64f21b36b8cf1aabc5
 Checking: Doogee_b3b090dd-85fb-48d3-9eb2-b92a4e9b8c11.xml ...
+  [revoked] Serial in file: cc88f4838f5472d797162816525df637
+  [revoked] Serial in file: 335f0f453bd765f31eb9315a4503b248
 Checking: Doogee_bb2d76ee-0964-488b-b0f7-b5e4b820984e.xml ...
+  [revoked] Serial in file: 12124067154144869908
+  [revoked] Serial in file: 12315714480640813453
 Checking: Doogee_c34d207d-b054-46a6-a6bb-7c704414e734.xml ...
+  [revoked] Serial in file: 10669194327302401006
+  [revoked] Serial in file: 12866531696646603106
 Checking: Doogee_c38d773c-b618-446c-9510-43f93409ce9f.xml ...
+  [revoked] Serial in file: a2f88d5ab87629e46391a14e851baaa0
+  [revoked] Serial in file: 44b574ecab8279e9dd7db8ef4c1e5fbd
 Checking: Doogee_c727afee-f7c7-4f1a-baf2-7905dbae3246.xml ...
+  [revoked] Serial in file: 8920a0dca660b4de24989789419040d0
+  [revoked] Serial in file: 66ed62c5107c53e2e0a3dd9edd172f42
 Checking: Doogee_cd6ca752-2ccc-44a2-99c3-d6c75f4cb51f.xml ...
+  [revoked] Serial in file: b1305cdd6b198284c6138fcd6ae4886f
+  [revoked] Serial in file: 6872f512e76889a7fcfee90307a3a359
 Checking: Doogee_ced903a7-9904-4c35-b26b-a9c72b54a3cd.xml ...
+  [revoked] Serial in file: c29920310d816cb8c6d7c32ddeb74426
+  [revoked] Serial in file: 9bcb2fa3dc609a232fabb4acf47ff643
 Checking: Doogee_d028ccf3-cf59-46d6-bb6c-c06d10c54f3f.xml ...
+  [revoked] Serial in file: c506b6f7c02543fabeb982fd406dda6b
+  [revoked] Serial in file: 7e2ad13e8cef66a73e8c07fb190b4593
 Checking: Doogee_db477b87-0d5a-4fe3-b4ff-7e821119aac8.xml ...
+  [revoked] Serial in file: cb802a7b53bd04677f632dbc5c7efd18
+  [revoked] Serial in file: 363b58d384617214952393ee0f0769e7
 Checking: Doogee_de77d13f-3083-40cc-8747-3569ee5fe40b.xml ...
+  [revoked] Serial in file: 7272698842840182778
+  [revoked] Serial in file: 18353630940606423474
 Checking: Doogee_e641a30e-bc87-47f5-b7a2-2912899aef27.xml ...
+  [revoked] Serial in file: af5d5e61fc239e7bc20845a7ea6f868
+  [revoked] Serial in file: f1ee7d0efdf96bd7b6565609f1d6f327
 Checking: Doogee_e78c0a32-6041-4a12-87f7-ec708c4dfd3b.xml ...
+  [revoked] Serial in file: 13104629854399997016
+  [revoked] Serial in file: 13742907873369814442
 Checking: Doogee_e90d0fdb-64b6-4033-9925-d6800c83f969.xml ...
+  [revoked] Serial in file: a7f2499c07431ce93dda75689059ca9f
+  [revoked] Serial in file: 68f160decbbc137fc13654da22aec60e
 Checking: Doogee_f4012704-4456-4f1d-b3ed-11bcbdc8162b.xml ...
+  [revoked] Serial in file: 525cfb4e952ed2040664b30d4d18580f
+  [revoked] Serial in file: dfcf9d7f582370290bf3f4b51443c231
 Checking: Doopro_e04134c3-f1bd-427e-a00b-ab02105bc0f2.xml ...
+  [revoked] Serial in file: 3633852058906365898
+  [revoked] Serial in file: 9570762950411226120
 Checking: EKINOX_a8da3961-93ba-403e-a45d-4a08f3d0a0bc.xml ...
+  [revoked] Serial in file: 6520339913711430772
+  [revoked] Serial in file: 6805447479791057437
 Checking: EKINOX_ee1a59bf-0ecb-4c6e-8954-e63916a17281.xml ...
+  [revoked] Serial in file: 14133948743658414510
+  [revoked] Serial in file: 4761357520814540410
 Checking: Elevate_1d5a55be-3350-4854-b426-74203f637dd5.xml ...
+  [revoked] Serial in file: 2c9dfc307d5c83a8dd5013da6ac969f0
+  [revoked] Serial in file: 93b4ecdddeb1d085f1945bc486959d29
 Checking: FiGi_09b3fd94-3684-40f2-91fd-1009049dd827.xml ...
+  [revoked] Serial in file: 875259389457378928
+  [revoked] Serial in file: 8462373919572375367
 Checking: FiGi_ffd5e99e-786a-455c-9e78-12ee30bab2d7.xml ...
+  [revoked] Serial in file: 11874732748150701975
+  [revoked] Serial in file: 6000171290449352369
 Checking: FiGO_140e82f5-0218-4aef-8217-db8334148ec4.xml ...
+  [revoked] Serial in file: 17548287312005733056
+  [revoked] Serial in file: 16420502866464731957
 Checking: Fly_4b04d40f-0ff0-409b-88b7-215f12877dd1.xml ...
+  [revoked] Serial in file: 17591370183096096748
+  [revoked] Serial in file: 7705576159423732151
 Checking: Fly_5970ce8a-b1c4-4293-b8d5-8c8dbfef5e89.xml ...
+  [revoked] Serial in file: 3960050646685267161
+  [revoked] Serial in file: 6243221578135081689
 Checking: Fly_82c1795e-bcda-40f3-b5c3-17f104f930b1.xml ...
+  [revoked] Serial in file: 17861599165324114922
+  [revoked] Serial in file: 4941276985384179001
 Checking: Gome_72bae37c-ffa0-4cfa-b1fe-32b532ac9533.xml ...
+  [revoked] Serial in file: 16751907249449052266
+  [revoked] Serial in file: 14061844977130087294
 Checking: G-TiDE_0b70737b-0a60-4459-83a7-1cd00fba7d3b.xml ...
+  [revoked] Serial in file: 11512276038777726519
+  [revoked] Serial in file: 16355745747728464669
 Checking: Haier_46b196de-f81c-45d5-9f95-30fb31927194.xml ...
+  [revoked] Serial in file: 2964558319508447851
+  [revoked] Serial in file: 12082992373841950556
 Checking: Haier_57805a17-eb7a-46d0-b414-db32a6dc3ec9.xml ...
+  [revoked] Serial in file: 2325436810252348399
+  [revoked] Serial in file: 2281815231867254003
 Checking: Haier_95c63169-866d-4c48-b86b-db699e82b8b4.xml ...
+  [revoked] Serial in file: 17429552170789960129
+  [revoked] Serial in file: 14091859884736110660
 Checking: Haier_afbeef60-d8a8-461c-9b5a-63885a917a7c.xml ...
+  [revoked] Serial in file: 12125784661527187581
+  [revoked] Serial in file: 16912160981546642841
 Checking: Haier_eda191e8-810e-468b-9760-2fa0a1f2212b.xml ...
+  [revoked] Serial in file: 12308346969947379602
+  [revoked] Serial in file: 10855771135573253987
 Checking: Haier_f7092c91-66fe-48cd-b2bd-b34024f40b92.xml ...
+  [revoked] Serial in file: 9047000191502040228
+  [revoked] Serial in file: 7388354637772547121
 Checking: Hisense_a43090c7-8783-449c-8f9c-02df8bcc0705.xml ...
+  [revoked] Serial in file: 17322925731571151656
+  [revoked] Serial in file: 10211210171941726332
   [revoked] Serial in file: 3882667606589968590
 Checking: HIYA_576064f4-a258-4d39-a34a-e930500ca685.xml ...
+  [revoked] Serial in file: 11754774816133914731
+  [revoked] Serial in file: 15255453077870761064
 Checking: HIYA_be092520-8ddd-4460-addf-686ed04997dc.xml ...
+  [revoked] Serial in file: 8643095593164647527
+  [revoked] Serial in file: 16519581990451159700
 Checking: HOTWAV_90fa3b59-94af-4666-b7a1-ea8b861ff1c1.xml ...
+  [revoked] Serial in file: 12547921473810742519
+  [revoked] Serial in file: 18112454405566794601
 Checking: HOTWAV_97ea1f6d-8a8d-4dfe-b325-8d8eb45a9803.xml ...
+  [revoked] Serial in file: 12850134514334640470
+  [revoked] Serial in file: 16969857508364139166
 Checking: BQ_cf2ad977-5bd3-462b-877d-c2347a565bc5.xml ...
+  [revoked] Serial in file: 10870833198429780968
+  [revoked] Serial in file: 15709046292275832488
 Checking: Bravis_10058c4c-b90d-4dd3-be69-d421ad8b651f.xml ...
+  [revoked] Serial in file: 12041006160347709930
+  [revoked] Serial in file: 9109078217573674786
 Checking: Bravis_e60ecc37-ee93-42bb-b02c-f7ef0b10f5e0.xml ...
+  [revoked] Serial in file: 14950116763454956609
+  [revoked] Serial in file: 11295137960653426978
 Checking: Camfone_3660d2e3-d2ae-4184-8e4c-887f3c2868e2.xml ...
+  [revoked] Serial in file: 1631231031743678035
+  [revoked] Serial in file: 5942291371609001569
 Checking: Conquest_423902fa-500b-4652-9558-0f88b302c7da.xml ...
+  [revoked] Serial in file: 6179639794735792268
+  [revoked] Serial in file: 13270118151786508748
 Checking: Coolpad_69ba0aa8-3334-46f2-b2fe-cb88b0b37f33.xml ...
+  [revoked] Serial in file: 8584757492144153821
+  [revoked] Serial in file: 18338809578830286245
 Checking: Cubot_83f2b637-1b86-4993-aea8-b4158638f388.xml ...
+  [revoked] Serial in file: 17614719585517836521
+  [revoked] Serial in file: 6845476658598762307
 Checking: Cubot_e85b4703-d5b4-4e21-ae17-5c5e0ce61ffa.xml ...
+  [revoked] Serial in file: 3220701687493395303
+  [revoked] Serial in file: 2414749361806573685
 Checking: DEXP_303df248-9d7c-4f23-ab81-e0e97eb5634e.xml ...
+  [revoked] Serial in file: 13443865958562313610
+  [revoked] Serial in file: 12026999060325170196
 Checking: DEXP_4bf6806c-1e06-4c5e-bc17-725a38363c99.xml ...
+  [revoked] Serial in file: 5653195812317178401
+  [revoked] Serial in file: 11985225948901866286
 Checking: DEXP_58237a78-54fa-454c-a3a3-68c887773af5.xml ...
+  [revoked] Serial in file: 10503640485383225508
+  [revoked] Serial in file: 7592586440524122039
 Checking: DEXP_7c6f950c-24da-48b3-a604-a2fb86538a7a.xml ...
+  [revoked] Serial in file: 11556268931938439440
+  [revoked] Serial in file: 14129494503727708763
 Checking: DEXP_b0023f47-457f-4a7a-b4c2-56e52048cbd2.xml ...
+  [revoked] Serial in file: 95dad3649151e8c7906097252cb200be
+  [revoked] Serial in file: 1c1c654a9f4c911f55180ebc8c6fe337
 Checking: DEYI_e298cf3f-70ba-438e-8acd-ca4f2248888d.xml ...
+  [revoked] Serial in file: 15794191584265602614
+  [revoked] Serial in file: 16981179658119560111
 Checking: Diamond_fbc5bb27-e47a-497b-abb5-c2c7d6528cf0.xml ...
+  [revoked] Serial in file: 6947913200808405282
+  [revoked] Serial in file: 2084693906571218416
 Checking: Digi_c9abd35c-215e-4e72-b9b2-d8c20b4743b8.xml ...
+  [revoked] Serial in file: 11021247239387126276
+  [revoked] Serial in file: 11343029270043769652
 Checking: Digma_f78fcf7c-11b9-46c9-a294-1fe5210ba044.xml ...
+  [revoked] Serial in file: 17259279288015542168
+  [revoked] Serial in file: 537095085985289061
 Checking: Doogee_07568680-6c80-4f88-a371-bd7895090122.xml ...
+  [revoked] Serial in file: 73fa734f676ed21994892e123419a1aa
+  [revoked] Serial in file: d16454bffbb7279183b14b142920606c
 Checking: Doogee_0d36d6c9-d9c7-478a-a0dc-be73616d33ee.xml ...
+  [revoked] Serial in file: 13361542902277157563
+  [revoked] Serial in file: 14274720142416487211
 Checking: Doogee_0e1b77dc-5a90-42a2-9f85-4e115e0eadb9.xml ...
+  [revoked] Serial in file: 9516882001730828910
+  [revoked] Serial in file: 2332493357804808652
 Checking: Doogee_30d757a4-7639-4301-82db-da51c2c85012.xml ...
+  [revoked] Serial in file: 6068574196472014291
+  [revoked] Serial in file: 5776829472166102571
 Checking: Doogee_32977a09-c834-4717-a535-268850192d47.xml ...
+  [revoked] Serial in file: 49a3cca479f919f7e2eecd46ba03f18c
+  [revoked] Serial in file: e7594633689a9c6ff61f43a14bb7264b
 Checking: Doogee_5ae0da36-f1a9-4389-9f37-4c8b4c43c7cc.xml ...
+  [revoked] Serial in file: 15541794644538864372
+  [revoked] Serial in file: 10157648723339399158
 Checking: Doogee_63b94886-9c04-4fb5-947b-bbaacfe9153a.xml ...
+  [revoked] Serial in file: 9347ffc68a4548e943cf4525ed949c56
+  [revoked] Serial in file: aa4cc63306ad8b488ca50fb8a9cb9967
 Checking: Doogee_6f53593a-5f66-446b-a459-17d748480cad.xml ...
+  [revoked] Serial in file: 1fac7a0e630aca898bbfcdd08fabe961
+  [revoked] Serial in file: 2a0a6263dcc251931100f4e7c1ea47ee
 Checking: Doogee_7bdbd0d9-cd10-4e3f-8571-d2ead441e8d3.xml ...
+  [revoked] Serial in file: 14178673755850035546
+  [revoked] Serial in file: 17788833436241575035
 Checking: Doogee_7c8f5bff-3718-43cf-8057-85c0eae627ff.xml ...
+  [revoked] Serial in file: e2f570423622e17c7b94a0bd0303be1f
+  [revoked] Serial in file: b6a0854982f30fe5b4bb1140c5f15828
 Checking: Doogee_86f56281-760c-421e-8e67-84a44031682b.xml ...
+  [revoked] Serial in file: a1900c8f0e34ba9617212d04b785f1f2
+  [revoked] Serial in file: 848822c9f6f0de69217c4756f545f941
 Checking: Doogee_8b8d1c69-3379-4d87-9da5-63e9b26bb2a7.xml ...
+  [revoked] Serial in file: 28b892a252632fc59b435345b4f24c6a
+  [revoked] Serial in file: f4a437d51d63fae8e0090dee46d2bea4
 Checking: Doogee_8c147d17-d978-4d7a-9734-922b6d172533.xml ...
+  [revoked] Serial in file: a3dba33972905c78edc7a0614342a055
+  [revoked] Serial in file: cd19fd245ab43d990ab2b420b80c5f83
 Checking: Doogee_8d6bbf0a-5bb9-4b5f-b058-7e43a363885c.xml ...
+  [revoked] Serial in file: 4a910c4d69c595b6d5c2721cf791704d
+  [revoked] Serial in file: 4274076a3016a000fc9198137d495452
 Checking: Doogee_b783fd48-4db9-473f-8c3f-ce5ef786e045.xml ...
+  [revoked] Serial in file: 6c21d7c6a992585458d76541ac7328e
+  [revoked] Serial in file: b3002b7ec336c18fcb1ab041984e0264
 Checking: Doogee_b95933b3-144e-4d6d-9eb8-5e2db5948dec.xml ...
+  [revoked] Serial in file: 67c42368dbea779f36e94c82d64e8b5e
+  [revoked] Serial in file: 4d00b5def81144c7b9feb069ae89eb43
 Checking: Doogee_be2fc1c6-2329-45b2-9b19-f1391c96b8c9.xml ...
+  [revoked] Serial in file: 18333910997658512402
+  [revoked] Serial in file: 16775908637767957587
 Checking: Doogee_c1bf2857-0cc6-4d0b-9a6e-db54da28bb71.xml ...
+  [revoked] Serial in file: b3084eb0f2e1f9fc9a84cfe203444ac3
+  [revoked] Serial in file: 53fd2e7ba250934d5ff8656a8cc092dc
 Checking: Doogee_cce0e870-f687-4f49-b46b-1352609fa971.xml ...
+  [revoked] Serial in file: 76f80dd60d857d87ef1f053496fc1821
+  [revoked] Serial in file: 46459cd05847f537c3c7723e25281394
 Checking: Doogee_dde45b8b-a884-4f2d-a4a5-4d4057e7c8d9.xml ...
+  [revoked] Serial in file: 69c30c8d5e01aaf82d72b3e5d457a325
+  [revoked] Serial in file: 4079b8daceb536da9e2de0264b7af284
 Checking: ENIE_057eb87e-6df9-453a-868e-c179a31466dd.xml ...
+  [revoked] Serial in file: 9821149884919752854
+  [revoked] Serial in file: 14456131005212888888
 Checking: Evertek_865f1bd6-ebf0-4bcf-9563-479e8c116112.xml ...
+  [revoked] Serial in file: 12938462621711062726
+  [revoked] Serial in file: 640299335692161605
 Checking: EXO_2ccc5868-c691-4557-a3cb-a70490002407.xml ...
+  [revoked] Serial in file: 2451894316101588135
+  [revoked] Serial in file: 13802469873676260745
 Checking: FiGi_766def50-0500-4916-ba26-a22769377946.xml ...
+  [revoked] Serial in file: 10371868144541985161
+  [revoked] Serial in file: 16417416155003088934
 Checking: Gertec_cc04e916-de9c-4280-a599-baf315030651.xml ...
+  [revoked] Serial in file: 9466797336255776346
+  [revoked] Serial in file: 739037537668426731
 Checking: Gome_db78736c-2209-437f-87fc-d8d1f1eae778.xml ...
+  [revoked] Serial in file: 15946210378314886776
+  [revoked] Serial in file: 4157570539419464511
 Checking: HiKING_b8ce00c1-09f6-48ff-b48a-1dc61dec03d8.xml ...
+  [revoked] Serial in file: 8791430520893620478
+  [revoked] Serial in file: 14153232148478076844
 Checking: Hisense_42cc446f-65fc-4b4e-938e-61f4594845e7.xml ...
+  [revoked] Serial in file: 11773818262460943534
+  [revoked] Serial in file: 4500443852310746091
 Checking: Hisense_56e3f5c0-60ce-4098-9b55-87f8e50a7e25.xml ...
+  [revoked] Serial in file: 8907788636616444001
+  [revoked] Serial in file: 4448127872971812347
 Checking: HIYA_65f70c7e-7c74-4e7d-be6a-9fae70bf9370.xml ...
+  [revoked] Serial in file: 12213856392806142261
+  [revoked] Serial in file: 12097639883054175609
 Checking: HomTom_0178e578-c1c9-43b8-a0f4-3bbdd433e916.xml ...
+  [revoked] Serial in file: 13444704245572892424
+  [revoked] Serial in file: 5821010432593367650
 Checking: HOTWAV_76f527b1-b654-43f9-9c50-bee6d3334a12.xml ...
+  [revoked] Serial in file: 12537545664770343750
+  [revoked] Serial in file: 18092278167672064165
 Checking: Hyundai_1ad4ef72-0b18-4a36-97e9-5592dd010db8.xml ...
+  [revoked] Serial in file: 11703829924370571030
+  [revoked] Serial in file: 3867650779728870809
 Checking: Hyundai_4b88973c-b7e2-4de6-95c4-bbbd7d0a0cf6.xml ...
+  [revoked] Serial in file: 17573046711577141589
+  [revoked] Serial in file: 11633955053719638886
 Checking: iLA_c6c6e4ca-c346-4470-af17-d430d849632c.xml ...
+  [revoked] Serial in file: 6207847524522671663
+  [revoked] Serial in file: 7084566599389118991
 Checking: INOI_1b91b6f1-710f-48be-927e-42efe7925fbc.xml ...
+  [revoked] Serial in file: 13351543309124393673
+  [revoked] Serial in file: 688298507510234617
 Checking: INOI_ae155a88-d1f8-4a14-8925-55d94ec28ba3.xml ...
+  [revoked] Serial in file: 13159914788299245104
+  [revoked] Serial in file: 8112959517181856483
 Checking: iPRO_cd3a203f-ab0e-4513-9046-118c928aabc3.xml ...
+  [revoked] Serial in file: 12929480697175245848
+  [revoked] Serial in file: 5958074546431617878
 Checking: IRBIS_9b45f64e-5e82-4f06-9d7a-c9d257fcfd1d.xml ...
+  [revoked] Serial in file: 15306873125351765021
+  [revoked] Serial in file: 16392576854441187415
 Checking: iVOOMi_44345963-c0c8-4348-bab2-789d8019c521.xml ...
+  [revoked] Serial in file: 14923883194495867925
+  [revoked] Serial in file: 8311609344400008385
 Checking: Jinga_54819e36-1379-4210-af53-3151bfee67a6.xml ...
+  [revoked] Serial in file: 15137939574581789583
+  [revoked] Serial in file: 18184297482379672095
 Checking: Jinga_943c2d84-2721-4ea5-aa95-befcc12b68a3.xml ...
+  [revoked] Serial in file: 12866679176397116854
+  [revoked] Serial in file: 3630625609915174077
 Checking: Kalley_f0ce5c77-0b04-47ef-84f4-9e8a450a1b0a.xml ...
+  [revoked] Serial in file: 2980282640739128821
+  [revoked] Serial in file: 649360166599737588
 Checking: Konrow_4f8893ef-3be3-4f53-bd93-2e93e844bc17.xml ...
+  [revoked] Serial in file: 8427912446708508364
+  [revoked] Serial in file: 11624990138741648241
 Checking: Konrow_cf94ba47-1c28-497a-93ef-0799897eef47.xml ...
+  [revoked] Serial in file: 16401128515427511823
+  [revoked] Serial in file: 8071712549586605652
 Checking: Koolnee_fab37104-08dd-43e7-91d0-0ee5b01939ae.xml ...
+  [revoked] Serial in file: 12666018646569633770
+  [revoked] Serial in file: 263571180357031733
 Checking: Kruger&Matz_2954d1b8-4b02-48a1-86c3-f3f211322bec.xml ...
+  [revoked] Serial in file: 911664501564355968
+  [revoked] Serial in file: 17134163023937622431
 Checking: Lanix_00954963-a973-41b9-a9b0-f74e30df9f31.xml ...
+  [revoked] Serial in file: 3716712199382672120
+  [revoked] Serial in file: 2217036293500859312
 Checking: Lanix_2362461d-d765-4c64-b9e6-0ad2c1ed3656.xml ...
+  [revoked] Serial in file: 946018607507967448
+  [revoked] Serial in file: 5706914914447015129
 Checking: Lanix_5fc60850-6f88-40dd-84f1-5f7a445040ab.xml ...
+  [revoked] Serial in file: 5270701338302942991
+  [revoked] Serial in file: 17686781759454046463
 Checking: Lanix_7fcf9258-549f-4c78-8874-5e1c755c527c.xml ...
+  [revoked] Serial in file: 6786380292256834507
+  [revoked] Serial in file: 8941912783345790562
 Checking: Lava_77601dac-3969-43f0-9492-2a2b7f6218cd.xml ...
   [revoked] Serial in file: 95ec197bda3f6063e0830f19eb1ea9d0
   [revoked] Serial in file: a777b30bcfadb0789078ca1be645b83a
 Checking: Leagoo_17815b7d-9963-4071-a89c-8a4378830970.xml ...
+  [revoked] Serial in file: 9055263122838778100
+  [revoked] Serial in file: 14988324393690617044
 Checking: HSEM_12783677-69ea-40a6-a837-363f290d6686.xml ...
+  [revoked] Serial in file: 8055778246453368536
+  [revoked] Serial in file: 17781464146189300114
   [revoked] Serial in file: 3882667606589968590
 Checking: Hyundai_966ace97-104b-454b-bfc9-a2b076448ff5.xml ...
+  [revoked] Serial in file: 15105908452061857335
+  [revoked] Serial in file: 1163679018842912827
 Checking: iHunt_2736770c-e707-4479-b5f8-9ec7eeba3da8.xml ...
+  [revoked] Serial in file: 4117092961177116291
+  [revoked] Serial in file: 5366349213120172684
 Checking: iLA_4f391961-8d89-477f-a05f-53f66da9f17e.xml ...
+  [revoked] Serial in file: 3348342077659161193
+  [revoked] Serial in file: 3462898713538971500
 Checking: INOI_058833cc-6312-4099-a8e2-ae4f24a5ec0c.xml ...
+  [revoked] Serial in file: 7654110745444903992
+  [revoked] Serial in file: 13923942323265098979
 Checking: INOI_2a30af25-a1be-4ba0-83ca-41bab6b5838a.xml ...
+  [revoked] Serial in file: 15731961713592405790
+  [revoked] Serial in file: 1915331135472335973
   [revoked] Serial in file: 3882667606589968590
 Checking: INOI_69e499fe-1d07-4240-a32d-6859cbe15d7d.xml ...
+  [revoked] Serial in file: 11793270943335100104
+  [revoked] Serial in file: 2689876706098565391
 Checking: INOI_a122a449-9979-4332-8156-1a495b53b830.xml ...
+  [revoked] Serial in file: 5088534581942862282
+  [revoked] Serial in file: 8500931610636173759
 Checking: INOI_f3bccfd0-bd6a-49a4-9669-6234342efb6f.xml ...
+  [revoked] Serial in file: 6609885515635822475
+  [revoked] Serial in file: 12839798118613948296
 Checking: iVOOMi_6ce56caf-1f3f-4429-a797-ae7b81683236.xml ...
+  [revoked] Serial in file: 9267780295697823234
+  [revoked] Serial in file: 14939597911001240500
 Checking: Koolnee_b7e537c4-b64a-4ed1-bc01-b540cbd77647.xml ...
+  [revoked] Serial in file: 7122633757601724173
+  [revoked] Serial in file: 3222672929701764054
 Checking: Kruger&Matz_885d87a0-975e-46df-b8ab-a7defa992194.xml ...
+  [revoked] Serial in file: 12494300043652991895
+  [revoked] Serial in file: 17881384239267060457
 Checking: Lava_20c23dc1-ae97-405a-a698-98c2cf1d7c76.xml ...
+  [revoked] Serial in file: 9f013bb1fa3222816a74b0ce6cd076b8
+  [revoked] Serial in file: d18dfff35d1ac389d51503c21a8768cb
 Checking: Lava_b063f5e7-f153-45fd-9a50-f813fa4b5e3b.xml ...
   [revoked] Serial in file: f5b5528811160492fdbda0276126c024
   [revoked] Serial in file: 85c654bf6ad94ac7f78a8d351d60775c
 Checking: Lava_e4edf6da-b547-4f22-9c86-141824df7125.xml ...
+  [revoked] Serial in file: 5fafe30ef9b509e17aa4cb3c4ac2432f
+  [revoked] Serial in file: 33bb605c360d72914425fc7e0f468e98
 Checking: Leagoo_740d78bd-a356-43e2-8968-33cc8bddbf6b.xml ...
+  [revoked] Serial in file: 11947125996355802600
+  [revoked] Serial in file: 10359833041203958171
   [revoked] Serial in file: 3882667606589968590
 Checking: Leagoo_825c6299-d690-4ec3-af2c-3f3514abec16.xml ...
+  [revoked] Serial in file: 10590419535208261705
+  [revoked] Serial in file: 16750824668855670849
   [revoked] Serial in file: 3882667606589968590
 Checking: Leagoo_aebb3134-1b16-431d-ad7f-0139e15f19c5.xml ...
+  [revoked] Serial in file: 13598415209206155272
+  [revoked] Serial in file: 4107973426586205194
 Checking: Leagoo_b7cfbd7d-f670-4d30-9c1b-41437bdcd077.xml ...
+  [revoked] Serial in file: 5570190545738416517
+  [revoked] Serial in file: 7134959736415654664
 Checking: Logicom_8d025a56-c88b-45f8-bec2-6f330e112227.xml ...
+  [revoked] Serial in file: 12378906362028415651
+  [revoked] Serial in file: 11204394266010843113
 Checking: MI_1a86e996-56df-4b5d-8ae9-6d87576d43e1.xml ...
+  [revoked] Serial in file: 7932106075041353004
+  [revoked] Serial in file: 4798033116238914812
 Checking: Multilaser_2dc948eb-63a0-4b7d-b433-4d7715d52e49.xml ...
+  [revoked] Serial in file: 16963383541113119838
+  [revoked] Serial in file: 17763536388831665418
 Checking: Multilaser_9efe77dd-ed5f-45d2-8bcd-866a0890026b.xml ...
+  [revoked] Serial in file: 17166447925880677753
+  [revoked] Serial in file: 2103969774430070906
 Checking: Nokia_0d53f5ca-28e8-4a5d-acf2-d0d88d26bbae.xml ...
   [revoked] Serial in file: a2686851fb08c4cc0bfe2178102db951
   [revoked] Serial in file: 471c7df99cf520e073a3f3abe48990bb
 Checking: NUU_9761c8a2-dfd0-4b5b-9f27-aac48b1e87bb.xml ...
+  [revoked] Serial in file: 9645330052895014933
+  [revoked] Serial in file: 14943253053993834378
 Checking: Oukitel_2584ff3b-0cf6-4603-bde6-3dc8ce2a1f41.xml ...
+  [revoked] Serial in file: 3fb20486820209dfe653cdd949f30299
+  [revoked] Serial in file: aede82c13ca66b11e9611910ec33e9d2
 Checking: Oukitel_36fe0e39-e172-4d88-b82a-ea11b401f03d.xml ...
+  [revoked] Serial in file: 2c7e7b840ab9683f7ae782fd933a7d4a
+  [revoked] Serial in file: b71386868425a23a0ae4ad9471ba5ebb
 Checking: Oukitel_3d19013a-aa6c-4f2b-bff7-d8db61dc38ed.xml ...
+  [revoked] Serial in file: 6e80d2c47c4ed576f68290e7757868f0
+  [revoked] Serial in file: f776595340b72c37b1c15665bfaa72ee
 Checking: Oukitel_4590478e-9cba-4fe8-bb29-3edf72868b83.xml ...
+  [revoked] Serial in file: 11995874578710510095
+  [revoked] Serial in file: 7926549934346456291
 Checking: Oukitel_769a7917-4309-4b93-8b0d-46a87c87baf0.xml ...
+  [revoked] Serial in file: 94e57eb2a219398728ab8ba895acf9e5
+  [revoked] Serial in file: e1985699e0b679e931beac1ec2124446
 Checking: Oukitel_76a0bcdc-ce3f-4f27-92ce-d96f1cadb8da.xml ...
+  [revoked] Serial in file: 14556792210715622716
+  [revoked] Serial in file: 13622725587770745035
 Checking: Oukitel_a6b5b5ff-facb-41b9-bbf3-35c6988c4684.xml ...
+  [revoked] Serial in file: 11385396130763420296
+  [revoked] Serial in file: 14952269824323253933
 Checking: Oukitel_ef880f6b-83af-4c0e-8a8b-d29a4bbdd80b.xml ...
+  [revoked] Serial in file: 7396599253353853529
+  [revoked] Serial in file: 15947460291329884115
 Checking: Panasonic_807e4059-8889-4e4c-9ecf-e8ee39eab401.xml ...
+  [revoked] Serial in file: 13177714475364809858
+  [revoked] Serial in file: 13126455043611858051
 Checking: Proline_e28c7142-d597-4715-831a-97ba34cf4fed.xml ...
+  [revoked] Serial in file: 6343132563689194829
+  [revoked] Serial in file: 1378596816822049706
 Checking: Quatro_9d8a583a-1610-4614-a6d5-1b704d9d7924.xml ...
+  [revoked] Serial in file: 12094654903452998366
+  [revoked] Serial in file: 2158993683179455671
 Checking: Samsung_0b2e0a89-1b34-49ed-9075-0142a1420fd0.xml ...
+  [revoked] Serial in file: 36d7d8542e790c0db4265ddccb0d48cd
+  [revoked] Serial in file: 724a3eaacbffca3a94b0ce8883690af0
 Checking: Samsung_12b2a036-da91-460e-9770-eb130a37044e.xml ...
+  [revoked] Serial in file: 9e904b84a9a70f575e981cfc31f78ed4
+  [revoked] Serial in file: 10559c58de0bf1e222be441a0d178e2
 Checking: Samsung_17effe7e-9d60-4702-ab4b-989b8942059e.xml ...
+  [revoked] Serial in file: 44e5cae6c2fda3702ecf9a833f91b429
+  [revoked] Serial in file: 6bce58bbabfda2c2e2d305c52e49e7af
 Checking: Samsung_1fd03bc9-be0d-4b6b-ac2c-6124b38a331e.xml ...
+  [revoked] Serial in file: e92f185b1d91aae8150a9ecb9ad64abf
+  [revoked] Serial in file: eb02c4f0d3c7c31d0af3956243435acf
 Checking: Samsung_25375147-e694-40ff-80e1-6e5a0b83940f.xml ...
+  [revoked] Serial in file: ac6f3ccab91803ff27d7fb0f2c27eb73
+  [revoked] Serial in file: 4f12a3c434511ac5c772c8a068605394
 Checking: Samsung_270c8ce7-5399-43e6-9d1c-dc1dcb7c09bb.xml ...
+  [revoked] Serial in file: ecb0701fef2c709009b4f448e036af06
+  [revoked] Serial in file: d01254e614638850ff71e292d9393fa6
 Checking: Samsung_3dc24c55-a729-43f4-ae70-659945012a2c.xml ...
+  [revoked] Serial in file: 5d76b25142bfc17ab4596a4d13459ca6
+  [revoked] Serial in file: cf93b45346e44e29bfd39e623763bdf1
 Checking: Samsung_6854d2d0-e8a4-4348-b604-5198cda83603.xml ...
+  [revoked] Serial in file: 4fe39896504ef94c334d20cb5f990965
+  [revoked] Serial in file: 4eb8d98cf407ee51d8c9116a23e17bf0
 Checking: Samsung_7511af3f-4dee-4713-8bb5-421e3ee51b8a.xml ...
+  [revoked] Serial in file: bfc1201a9f509415480832c1bb076dc2
+  [revoked] Serial in file: a1a43b860e03143cba1e55b7d8fc530a
 Checking: Samsung_a91166ea-0807-4df6-880c-b9588d266edc.xml ...
+  [revoked] Serial in file: df630d736c4bcfe10052ed4971fc67c2
+  [revoked] Serial in file: fe29ff268201c69ad7f515ae9085f902
 Checking: Samsung_b568e7f6-be54-4479-9f02-9a279f49dbe7.xml ...
+  [revoked] Serial in file: d3e6b9b2e6fe55bcab673057e190e82c
+  [revoked] Serial in file: 9ffc743a2de3fcd3f1b7069fd176bbd9
 Checking: Samsung_c4857f76-216a-4ac7-91a2-4b159728fb18.xml ...
+  [revoked] Serial in file: d2fddc8dcabfc26d551492f1682ac1f4
+  [revoked] Serial in file: 4f2a352a042de481d9830c27a7777cf
 Checking: Samsung_d11a3b31-091f-40c0-9ab7-e33c73cc224b.xml ...
+  [revoked] Serial in file: d7243e4bcc79b77d9836761ab911478c
+  [revoked] Serial in file: 6973c4eb4bb35508909829d8791a34ed
 Checking: Samsung_d515a92e-0ffe-4ca5-93ba-203c4ac112f7.xml ...
+  [revoked] Serial in file: 4d9fbd4e54a52cd3a816b5de9d3f385d
+  [revoked] Serial in file: 716694de91b5a31f2773ecb5d41060f
 Checking: Sonata_d6f6b9b4-2d99-4c3b-afaa-d2f4b5e6a505.xml ...
+  [revoked] Serial in file: 7833836230118043061
+  [revoked] Serial in file: 17275376463061255666
 Checking: Symphony_8b5826ac-7020-4b12-903a-26e8e9480296.xml ...
+  [revoked] Serial in file: 8851629998784417471
+  [revoked] Serial in file: 9806819559341197621
   [revoked] Serial in file: 3882667606589968590
 Checking: Symphony_ef7b2029-fa85-4f13-a576-4c42b1e18cb3.xml ...
+  [revoked] Serial in file: b8df5c0073e9cc930850bf7c175ad6fc
+  [revoked] Serial in file: 8d17db3238c11b79af36d50e5c7e9f85
 Checking: Tech_b069ba3a-4c3c-4288-a3c2-cabf5aa3bbbb.xml ...
+  [revoked] Serial in file: 8362826351828825087
+  [revoked] Serial in file: 5586776208138972634
 Checking: Teclast_9636a575-c88c-4a20-a5cd-7ae3ebdfcb3e.xml ...
+  [revoked] Serial in file: 8794481172032979216
+  [revoked] Serial in file: 13842383135548544709
 Checking: Teesso_14b69b66-5cb0-435c-a869-0fd11d61d8f7.xml ...
+  [revoked] Serial in file: 18348015637441004816
+  [revoked] Serial in file: 15217257688234268754
   [revoked] Serial in file: 3882667606589968590
 Checking: Turbo_5bf4fac0-640e-4377-9d02-f389d706be59.xml ...
+  [revoked] Serial in file: 13227372165268306933
+  [revoked] Serial in file: 275996957950403990
 Checking: Turbo_62dcf5e9-15c6-49aa-8eac-9177baa0af4d.xml ...
+  [revoked] Serial in file: 12693548162402959756
+  [revoked] Serial in file: 2517683954090094066
 Checking: Ulefone_3b975a9b-7cbc-4cb7-ae35-94f0b5ba5971.xml ...
+  [revoked] Serial in file: 6d322cd847df43f2636183d91c946cb2
+  [revoked] Serial in file: 8e47f9689dcf05f10deaaf0516474c0c
 Checking: Ulefone_45e31d18-9e61-4dfe-b6ee-a3fd4d0f203c.xml ...
+  [revoked] Serial in file: a9a0f644c36d4554c1a329c2f6395125
+  [revoked] Serial in file: 4b5e251c6bce9ff501399172b29b3fc8
 Checking: Ulefone_4b74f8f9-dc37-4e6d-94ba-c207da7e8d53.xml ...
+  [revoked] Serial in file: 60902f41a02713fe8f69cf20e5272b30
+  [revoked] Serial in file: e75accae38ddd2b521c869cf57f8ea8a
 Checking: Ulefone_505ffb17-38dd-4464-b8c9-dd3adf946137.xml ...
+  [revoked] Serial in file: 602069ca10286b6cb35a441e2f50bf0a
+  [revoked] Serial in file: b923e6baae4f906f9fdd492c6f0ef918
 Checking: Ulefone_8784d475-9d18-495e-a550-34e57472c171.xml ...
+  [revoked] Serial in file: 2577620748261522555
+  [revoked] Serial in file: 4069366359021527949
 Checking: Ulefone_ce3cf2ca-8fab-4a00-83d4-7e1ea784ca52.xml ...
+  [revoked] Serial in file: 4395484237900433375
+  [revoked] Serial in file: 15754136879424760507
 Checking: Umidigi_24e837be-6da2-4b5d-b979-919a07a91342.xml ...
+  [revoked] Serial in file: 8422401582526793650
+  [revoked] Serial in file: 3552573385834796777
 Checking: Umidigi_438f6168-e640-4bc4-8b2c-e4bc99d173f1.xml ...
+  [revoked] Serial in file: 4781922103321455509
+  [revoked] Serial in file: 9399041227330998187
 Checking: Umidigi_a6e6291c-429e-4270-836f-cd900165b07f.xml ...
+  [revoked] Serial in file: a347224fc879fa3ff692e996d3ebc8ae
+  [revoked] Serial in file: f05b51bcf65ffda7644087c65dbc31f5
 Checking: Umidigi_c92f2327-2c86-492d-8248-4810d2be5de8.xml ...
+  [revoked] Serial in file: daf6ff6b0b34b7de4adaa1e170e3d99b
+  [revoked] Serial in file: fd66ec7071b20ad6ee0062ca31240f41
 Checking: Umidigi_d1deaf37-a50b-49dd-9edc-b71b7321bdbd.xml ...
+  [revoked] Serial in file: 14734908615539204029
+  [revoked] Serial in file: 3442276642933601573
 Checking: Umidigi_dfdef84a-58d2-47fc-b822-e82bf7896e35.xml ...
+  [revoked] Serial in file: 8566355507751492394
+  [revoked] Serial in file: 1418752286162894584
 Checking: Leagoo_36618495-8c69-4837-9686-7e41a9c4effa.xml ...
+  [revoked] Serial in file: 8115614470879371282
+  [revoked] Serial in file: 1270825939118342071
 Checking: Leagoo_49c759e5-810c-489e-82dc-1c7035796867.xml ...
+  [revoked] Serial in file: 11619874356085575617
+  [revoked] Serial in file: 6558326107809454850
 Checking: Leagoo_8fea270a-00a4-4f1f-844f-a0e3f9ecc09f.xml ...
+  [revoked] Serial in file: 17617756295375637730
+  [revoked] Serial in file: 13299165965559502092
 Checking: Leagoo_ea15eb6f-1195-44a1-a343-f6f2bf5ef8a5.xml ...
+  [revoked] Serial in file: 16523885828266638376
+  [revoked] Serial in file: 7942544756628037754
 Checking: Lenovo_10d04ac5-a2e3-4b09-8920-21306657020e.xml ...
+  [revoked] Serial in file: 5239959167856611706
+  [revoked] Serial in file: 14089190846422478751
 Checking: motorola_7f2b82f0-7d24-487e-b897-5743121f1e1b.xml ...
+  [revoked] Serial in file: 12895023700217504488
+  [revoked] Serial in file: 11851637185500813619
 Checking: motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml ...
   [revoked] Serial in file: 1657009719460706003
   [revoked] Serial in file: 14629235450808822995
 Checking: Multilaser_e5255ccd-bc2a-4116-9959-df3b76a1866e.xml ...
+  [revoked] Serial in file: 691600efc109f66a34b42e744c1a94f0
+  [revoked] Serial in file: e7cfba03d8313a3cad59ef9fc83cc38b
 Checking: MYFON_dedd07f0-85da-4467-b033-956eff2e5bea.xml ...
+  [revoked] Serial in file: 3863330030684067428
+  [revoked] Serial in file: 6283154026753754922
 Checking: myPhone_05aef828-95ef-4598-88c8-235e85a7f75e.xml ...
+  [revoked] Serial in file: 14497459333072564120
+  [revoked] Serial in file: 9301455284417532272
 Checking: Nokia_7f0a0888-dce1-441b-8b65-810bcff73c0f.xml ...
   [revoked] Serial in file: 5290075768011449057
   [revoked] Serial in file: 17380573025504143
@@ -318,156 +882,417 @@ Checking: Nokia_ae4f783f-d9b8-48db-9644-f7ac58860fbb.xml ...
   [revoked] Serial in file: 12727882769221521191
   [revoked] Serial in file: 16867976188250038576
 Checking: OTOT_05c54cb8-31cf-413f-ab83-705803f327c6.xml ...
+  [revoked] Serial in file: 746466033575332485
+  [revoked] Serial in file: 4350988849091209304
   [revoked] Serial in file: 3882667606589968590
 Checking: Oukitel_3b0eebf1-8efd-43b6-b675-64826c45dcc4.xml ...
+  [revoked] Serial in file: 247aea054c0ee0327d15b3f11b5dd943
+  [revoked] Serial in file: d5756f8a0113386644fc333cd870d037
 Checking: Oukitel_b57dc866-5b0c-45c7-8940-13acc02d68ff.xml ...
+  [revoked] Serial in file: 568037045804733656
+  [revoked] Serial in file: 5145661097652882615
 Checking: Oukitel_c0490ae8-665c-4603-ab0c-3959d79e3a44.xml ...
+  [revoked] Serial in file: 7983745845736323815
+  [revoked] Serial in file: 5583650050998555564
 Checking: Oukitel_e824e5fa-0691-4643-b01a-69604e4f9145.xml ...
+  [revoked] Serial in file: 1213939474804579798
+  [revoked] Serial in file: 17250654822168542743
   [revoked] Serial in file: 3882667606589968590
 Checking: Polytron_e100e55f-863b-4417-8bf2-bf32dae036cb.xml ...
+  [revoked] Serial in file: 4254147825792286061
+  [revoked] Serial in file: 17083988680898330322
 Checking: Premio_5783361f-984e-4d25-b1d9-57e403fc8945.xml ...
+  [revoked] Serial in file: 8227678833096416272
+  [revoked] Serial in file: 2678124270885285508
 Checking: Prestigio_94217144-4af6-48a2-b28c-cc240421c51a.xml ...
+  [revoked] Serial in file: 13808834353403430099
+  [revoked] Serial in file: 6557201419542074723
   [revoked] Serial in file: 3882667606589968590
 Checking: Prince_25b6c4eb-a5a0-409c-bb44-412ec537df76.xml ...
+  [revoked] Serial in file: 16986256465740919702
+  [revoked] Serial in file: 10718933086896468373
 Checking: QMobile_27c46340-5dcc-4ef4-969e-bce083d49303.xml ...
+  [revoked] Serial in file: 10388667388998919914
+  [revoked] Serial in file: 8514325939042626567
 Checking: Samsung_0cac8e4f-8e9d-461a-b2bf-a8bec542a44d.xml ...
+  [revoked] Serial in file: 1e97cdff9138d7f21fc9267eb37b676c
+  [revoked] Serial in file: 399eee0281d80b2f0bae43fdac3bc0a3
 Checking: Samsung_2997a8cd-5ba1-4ae1-8034-027542ba35d6.xml ...
+  [revoked] Serial in file: e89a2ae0999b6358925df793745c531
+  [revoked] Serial in file: d43d77b652411585c1a148e800c0bcf4
 Checking: Samsung_32891878-1520-4630-943a-95ecde23cd75.xml ...
+  [revoked] Serial in file: 4ba0cf54d4e41ac1b7d5e73d79549c68
+  [revoked] Serial in file: 4610fefcaafda9d716930e54868c1b37
 Checking: Samsung_771efd52-acde-490e-bbd0-81d63da885e4.xml ...
+  [revoked] Serial in file: fcd3c0ee1d3f4795cd30c2799428507
+  [revoked] Serial in file: 1089301f22f71a98b1ff169dcabee5af
 Checking: Samsung_7a5a349c-0aeb-425a-850a-8f240d815aca.xml ...
+  [revoked] Serial in file: 81a8077fd2dae33836b2c0bb2894e7d7
+  [revoked] Serial in file: 822a698d52357ea9aa962322e25534cf
 Checking: Samsung_8efd5b2e-31ba-4e25-93ed-9dd80fbb3e63.xml ...
+  [revoked] Serial in file: 7ea11e846128aea82f128c9b6e152c94
+  [revoked] Serial in file: 5a70fe96ccce5684890cba880766253e
 Checking: Samsung_a2d8472a-6eb2-4944-935c-f5de22ebdd56.xml ...
+  [revoked] Serial in file: 47720c5ce545f6e257f027f8559418b8
 Checking: Samsung_acfdc71e-a71f-4cce-b5aa-b37394a956b9.xml ...
+  [revoked] Serial in file: c2a17c058413bbad798fbdf7387fac09
+  [revoked] Serial in file: 40ac2db283366856d3dd06df0e56d7fa
 Checking: Samsung_c5faa186-2a74-4c12-a5a0-22f396e63aa7.xml ...
+  [revoked] Serial in file: 717253461c4db933a1d4d5a6f79a9585
+  [revoked] Serial in file: 14c19cf0dc87c31b02b4e35e35359d6a
 Checking: Samsung_cdf4f492-c47c-4210-8f45-197be2307bc0.xml ...
+  [revoked] Serial in file: 3cc22ee29faeb1f88678172e3580169b
+  [revoked] Serial in file: c391a412ce83723712a566de95626413
 Checking: Samsung_f757d779-22d5-46dd-8796-aebd8af58a90.xml ...
+  [revoked] Serial in file: 20d09b6f05a4155c403c49e42b3918f0
+  [revoked] Serial in file: b8b6a9b09e7b7468d0f715e6be0681c2
 Checking: SKY_d41d88f6-f086-424c-add8-f7d836f8efa8.xml ...
+  [revoked] Serial in file: 12813875667693461525
+  [revoked] Serial in file: 11743167819662902408
 Checking: SPURT_26dddb0a-be10-47b6-a316-ef0a28a1392d.xml ...
+  [revoked] Serial in file: 9677756083268455895
+  [revoked] Serial in file: 8880749303561162025
 Checking: Symphony_a2cd5376-f36a-48a4-b55a-1a4eb440cea4.xml ...
+  [revoked] Serial in file: 7481779408865365145
+  [revoked] Serial in file: 3513800110905757424
 Checking: Tech_3e87922c-3985-4f5b-a2e0-3ebe4efbbb54.xml ...
+  [revoked] Serial in file: 16923467952436143015
+  [revoked] Serial in file: 18140647132090162647
   [revoked] Serial in file: 3882667606589968590
 Checking: Teracube_eb5fa5d5-407b-4fb1-80b4-365ab341d1e9.xml ...
+  [revoked] Serial in file: f18b3c4dd821bb10acf9700f7f17e8ac
+  [revoked] Serial in file: c5a684fa3d00ef37e092772c0ac9cd96
 Checking: Texet_c3b489ae-319a-46e9-8451-7d1f74d167ca.xml ...
+  [revoked] Serial in file: 11767279525362412902
+  [revoked] Serial in file: 14158367028864484617
 Checking: Tokio_9f017919-13d8-48af-93ed-e83022572ede.xml ...
+  [revoked] Serial in file: 4601406337160575524
+  [revoked] Serial in file: 13487917262656397992
 Checking: Ulefone_05be52c4-b9ae-4abe-bf29-b44ce8682725.xml ...
+  [revoked] Serial in file: c111bfaae0f58238d848742eaa6e07d2
+  [revoked] Serial in file: 44854b78cc2ea46c8eea11767a45740c
 Checking: Ulefone_1fd2f76c-2e44-4568-93fb-512535640c22.xml ...
+  [revoked] Serial in file: 13372311372410136237
+  [revoked] Serial in file: 15201927663533532422
 Checking: Ulefone_5b6d1d7a-b5b7-486f-a479-e47753dcdb18.xml ...
+  [revoked] Serial in file: 5733072900241141041
+  [revoked] Serial in file: 12950630708617685644
 Checking: Ulefone_7679ceab-b43e-42c6-adbc-b2041029e44a.xml ...
+  [revoked] Serial in file: 8c7f8e3a777c2c851b29005053f6b37d
+  [revoked] Serial in file: e9874a8c82f9dfefff6535f59a3a6aa1
 Checking: Ulefone_76e5e11a-3f5e-4a9f-b6d6-b694582b02a9.xml ...
+  [revoked] Serial in file: 13484381473217114639
+  [revoked] Serial in file: 7933014882736141564
 Checking: Ulefone_7a1a0c68-50e8-4436-a6ad-1287c20305a2.xml ...
+  [revoked] Serial in file: 9941087608676516516
+  [revoked] Serial in file: 4662130574956547233
 Checking: Ulefone_877d30d2-f4a0-44a4-a703-103c444d6613.xml ...
+  [revoked] Serial in file: 7055158600627179107
+  [revoked] Serial in file: 331343401599225891
 Checking: Ulefone_8e144c88-3ca8-4631-8c17-55041d10fefe.xml ...
+  [revoked] Serial in file: 7605c867c4b24602481287698d6a57b5
+  [revoked] Serial in file: 616c34cfdb314266c3733efdb7740c0c
 Checking: Ulefone_9a83ca00-ee46-445f-bc85-0a1647cd7a28.xml ...
+  [revoked] Serial in file: 8786132768557811734
+  [revoked] Serial in file: 7339952604526531226
 Checking: Ulefone_d89491bd-f92b-48ef-a7c7-489e638b0097.xml ...
+  [revoked] Serial in file: 12561873826043898789
+  [revoked] Serial in file: 1282008532514910115
 Checking: Ulefone_f107f9fd-18c2-4f30-8595-6c80d949e944.xml ...
+  [revoked] Serial in file: 2340600689147915979
+  [revoked] Serial in file: 6422260858891619782
 Checking: Ulefone_fdd8b14c-38c7-4281-8705-f355b763b52a.xml ...
+  [revoked] Serial in file: 831f627cb06cb29687f63f0c35551205
+  [revoked] Serial in file: be43747bf20abee9a28ae28ee4be35e9
 Checking: Umidigi_028cd529-a9ad-4f70-998e-766758f94b57.xml ...
+  [revoked] Serial in file: 15622803546746278062
+  [revoked] Serial in file: 10461492875437061652
 Checking: Umidigi_39eccfd0-9a83-4327-9c05-23e1edba1495.xml ...
+  [revoked] Serial in file: 16764302296790793288
+  [revoked] Serial in file: 15543333169867679775
 Checking: Umidigi_7466a4d6-1afc-4c74-a32f-caf2f31f33c9.xml ...
+  [revoked] Serial in file: 17429495249145815331
+  [revoked] Serial in file: 6214181006624917599
 Checking: Umidigi_ad5f496b-1129-4e25-b63c-5900cfbfa6b3.xml ...
+  [revoked] Serial in file: 13366807907856598126
+  [revoked] Serial in file: 11786091504502396114
 Checking: Umidigi_b3de3f80-5bdd-49f8-8273-7cda3e5837b9.xml ...
+  [revoked] Serial in file: 17764646277916293097
+  [revoked] Serial in file: 4960482075907400864
 Checking: Vernee_9a826640-173b-44dc-859b-b449cab90de0.xml ...
+  [revoked] Serial in file: 3897752522589381976
+  [revoked] Serial in file: 8870309663192723445
 Checking: Vertex_16fba351-e940-4bab-b3ee-13098040d70e.xml ...
+  [revoked] Serial in file: 25601477887622945
+  [revoked] Serial in file: 13754373405743288687
 Checking: Vertex_44f889cd-3606-446f-95f3-ead416170269.xml ...
+  [revoked] Serial in file: 817007386347111263
+  [revoked] Serial in file: 16732073627698835403
 Checking: Vertex_6e1fd74c-cd7b-4bdc-9267-b58414209d28.xml ...
+  [revoked] Serial in file: 3703917662393238539
+  [revoked] Serial in file: 12439097412743619723
 Checking: Vertex_79eae172-8b85-4162-8216-1cf5748e1f01.xml ...
+  [revoked] Serial in file: 4149729170845317739
+  [revoked] Serial in file: 8078584563772313435
 Checking: Vertex_9fd16536-3057-4fbf-b662-2329b6cef98c.xml ...
+  [revoked] Serial in file: 8527371886349547413
+  [revoked] Serial in file: 2340215094190005217
 Checking: Vertex_b8b5cb55-2c56-4a92-8e6f-9c8997426b84.xml ...
+  [revoked] Serial in file: 12450719621303624609
+  [revoked] Serial in file: 2500054701358369151
 Checking: Vertex_c9708db6-cb54-4420-a92d-bb6f1104c0ad.xml ...
+  [revoked] Serial in file: 17028838969182661671
+  [revoked] Serial in file: 5321386845524205729
 Checking: Vertex_f5f29839-62b5-4f46-bca9-0537e6e54aa5.xml ...
+  [revoked] Serial in file: 7926662252213588550
+  [revoked] Serial in file: 190680988733074880
 Checking: Vertex_fbc462fe-2210-4b56-900f-c3608fee7b35.xml ...
+  [revoked] Serial in file: 10932084811022874750
+  [revoked] Serial in file: 9612320514363745744
 Checking: Vmobile_b2a4e083-0c38-4c8d-8147-8e08d64aa958.xml ...
+  [revoked] Serial in file: 13556355866894425222
+  [revoked] Serial in file: 8285140117203273732
 Checking: Walton_0bbda864-d984-46cb-aff1-491126d710f3.xml ...
+  [revoked] Serial in file: 11947062695455535306
+  [revoked] Serial in file: 17532707713204912201
 Checking: INOI_68450bf0-d1c0-486e-b731-bc21b8b5f181.xml ...
+  [revoked] Serial in file: 1056928670469974029
+  [revoked] Serial in file: 13262589442095334724
 Checking: INOI_6a03cd7c-87e1-4df2-8af3-235939c817df.xml ...
+  [revoked] Serial in file: 4613727233318672247
+  [revoked] Serial in file: 12894216054197351841
 Checking: INOI_f1a6095b-877b-49b5-9111-2faf1d0848ef.xml ...
+  [revoked] Serial in file: 3186422411496792463
+  [revoked] Serial in file: 8195874365587446935
 Checking: iPRO_fb9a8c91-cd3b-4d55-86d9-31334a8948a6.xml ...
+  [revoked] Serial in file: 16456899289897394777
+  [revoked] Serial in file: 9508271318689861258
 Checking: iVOOMi_1e4885db-4dc0-4fce-8a8a-880f8569bed3.xml ...
+  [revoked] Serial in file: 9080341327471553837
+  [revoked] Serial in file: 6444002174292990019
 Checking: KENBO_c3a06b0c-fa56-4d3a-b9ff-6b7061d70773.xml ...
+  [revoked] Serial in file: 3140841167294297979
+  [revoked] Serial in file: 14680182036657129094
 Checking: Kiowa_3cf33db7-1b89-4899-94d6-0a842d274176.xml ...
+  [revoked] Serial in file: 13376476930900514844
+  [revoked] Serial in file: 1226058178906347971
   [revoked] Serial in file: 3882667606589968590
 Checking: Konrow_9bd8c614-9cf9-4a8f-b142-44f33023149d.xml ...
+  [revoked] Serial in file: 3803399066106195372
+  [revoked] Serial in file: 4850150526033902579
 Checking: Lanix_c96aede3-3eeb-45c7-bfae-874e1d476811.xml ...
+  [revoked] Serial in file: 4730217778601012084
+  [revoked] Serial in file: 2685517076287999755
 Checking: Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml ...
   [revoked] Serial in file: d3ae9fa83749bb0d49cf377181fc7000
   [revoked] Serial in file: 1266989c9955f471ada93e8b782d2c0f
 Checking: Lava_76988e12-1ece-4a05-9b31-b6ed3ede2b25.xml ...
+  [revoked] Serial in file: d216865c5292e5395d4b3ed2be0c4fbf
+  [revoked] Serial in file: ad7a0d5e1a976e380da8a746b072fe07
 Checking: Lava_fd68e300-0d1c-48a9-9d7e-869953975199.xml ...
+  [revoked] Serial in file: 5c9e45bebc8679f53e878e309ba1218f
+  [revoked] Serial in file: 6a566a90b053475acbfb98c2ca220021
 Checking: Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml ...
+  [revoked] Serial in file: 1479240847393204011
+  [revoked] Serial in file: 2969505108048152798
 Checking: Leagoo_b845cece-2253-4671-a4b8-0dc2a387284b.xml ...
+  [revoked] Serial in file: 3503293220075342146
+  [revoked] Serial in file: 11817991001385968741
 Checking: Leagoo_c8e21334-05cc-43b0-bb62-c4eb95386f07.xml ...
+  [revoked] Serial in file: 13616625207942579892
+  [revoked] Serial in file: 1328245255666024495
 Checking: motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml ...
   [revoked] Serial in file: 12382760887107677506
   [revoked] Serial in file: 11648272088908549083
 Checking: Multilaser_2608a1e3-25ba-4942-bb58-f1d1076c8bd5.xml ...
+  [revoked] Serial in file: 8936309167481865838
+  [revoked] Serial in file: 6776156484954651193
 Checking: Multilaser_29bfd144-e74c-4070-82bb-c154d35a7c7d.xml ...
+  [revoked] Serial in file: 10667604468364060721
+  [revoked] Serial in file: 3841480909321250032
 Checking: Multilaser_a48fdfb6-2cf1-4f4d-84b4-9f757d49d307.xml ...
+  [revoked] Serial in file: 11139898914057322454
+  [revoked] Serial in file: 5444971235494734117
 Checking: Multilaser_cb3083c1-91f9-4748-be3a-4497d745322a.xml ...
+  [revoked] Serial in file: 5801416508326013062
+  [revoked] Serial in file: 9174183932523732703
 Checking: MYFON_aebf073d-8688-4ce8-90f3-0d72f084781c.xml ...
+  [revoked] Serial in file: 5040674813321038506
+  [revoked] Serial in file: 8189077274206039187
 Checking: myPhone_725c3ba9-5a9d-4a22-b0bc-fb06fba217f7.xml ...
+  [revoked] Serial in file: 9967678201400674582
+  [revoked] Serial in file: 1257582226115082010
 Checking: OALE_1c66a041-3f31-451c-bbc2-cd1234a645a5.xml ...
+  [revoked] Serial in file: 16238689046636076300
+  [revoked] Serial in file: 2926930194849214739
 Checking: Oukitel_0e717fb9-49b8-4ceb-adfc-a28e4ed23b73.xml ...
+  [revoked] Serial in file: 10307937497649959568
+  [revoked] Serial in file: 17531757111750907516
 Checking: Oukitel_879261e9-097c-4fb7-80aa-82115a27406f.xml ...
+  [revoked] Serial in file: 482402277739851513
+  [revoked] Serial in file: 14962926928628128681
 Checking: Oukitel_cbb83bc0-bf37-4538-bb76-15158c5983ed.xml ...
+  [revoked] Serial in file: 15949072560434705647
+  [revoked] Serial in file: 9945465180283798314
 Checking: Oukitel_ef3eae11-2399-4e22-8842-049fda370759.xml ...
+  [revoked] Serial in file: 15971712673171099023
+  [revoked] Serial in file: 7308904911014251959
 Checking: Oukitel_fd815f54-39fc-403f-b96d-b7c068cbeb72.xml ...
+  [revoked] Serial in file: 14302672516830334768
+  [revoked] Serial in file: 8987610991299839523
 Checking: Panasonic_5da3342c-4166-48d7-af8c-d83035b852b5.xml ...
+  [revoked] Serial in file: 5678915102142986730
+  [revoked] Serial in file: 13225566063780025714
 Checking: Positivo_4339bdf7-b7f0-4ee8-b0b5-f77e260637c0.xml ...
+  [revoked] Serial in file: de35a8afb6bfeea1bdc5b6fe49059813
+  [revoked] Serial in file: c733bd4692ebfaab9ee2e157c0ff0dc8
 Checking: QFX_81b0716b-164d-4a30-ae3d-2bccff5bd7a7.xml ...
+  [revoked] Serial in file: 16207745822015386703
+  [revoked] Serial in file: 12714164435721273876
 Checking: Raylan_6f05d4ea-768d-4ac7-bc14-7b7b5c6bb7f5.xml ...
+  [revoked] Serial in file: 1185021245022207357
+  [revoked] Serial in file: 7203471988301783906
 Checking: Raylan_9deb3817-8fd8-4743-a5bc-4a9c2edbeb70.xml ...
+  [revoked] Serial in file: 6283901294717629628
+  [revoked] Serial in file: 15476896354558188036
 Checking: realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml ...
   [revoked] Serial in file: 75b5d73175dac5e6b9cd5af409eb6e15
   [revoked] Serial in file: c83592ef396c523513b0f4fd731a7750
 Checking: ROKiT_37501089-094f-4b46-9f8c-eb5085da89ba.xml ...
+  [revoked] Serial in file: 2974222033341634612
+  [revoked] Serial in file: 16151293829708096214
 Checking: Samsung_1d1ca611-5ae6-4f52-b744-b6bb2f913257.xml ...
+  [revoked] Serial in file: 412029111cb4543565023ca5d4c6d11c
+  [revoked] Serial in file: 2c371dbe2134dae8a628181493214940
 Checking: Samsung_1d373597-3098-448e-9190-dd335e1fd92f.xml ...
+  [revoked] Serial in file: 3026ca29146611617e05e321600aaf3f
+  [revoked] Serial in file: dd399460606ecfb49bd29f6875e1bff9
 Checking: Samsung_2c515d26-f28f-4863-8778-170036d7e963.xml ...
+  [revoked] Serial in file: 3707baca633c5cccb565a90452b074c9
+  [revoked] Serial in file: 3041023b002301bb25b41dc01c83bddc
 Checking: Samsung_5bb2159d-9f28-4b40-aa46-ed33ab3a9a4b.xml ...
   [revoked] Serial in file: 51680223b7de7ec84b51dc9a51c52b38
   [revoked] Serial in file: 1380a36b8e15b90428a50a83744fdee7
 Checking: Samsung_725da03e-67b3-463c-a281-40ab2d2f4202.xml ...
+  [revoked] Serial in file: ee670bfc6ddcaf5093f5216c3a27d22a
+  [revoked] Serial in file: b8d9b79c7155fc43fd2b33b55fc0480a
 Checking: Samsung_8e36b7d5-8484-4de3-8486-c4e514a9c4c0.xml ...
+  [revoked] Serial in file: fa2e5e3b02b467c5b5f02137b3fe09d7
+  [revoked] Serial in file: c3749d2f878c0c77f3c81ec5341d8dd4
 Checking: Samsung_9ea40fa4-3fc0-43a3-a7ba-cbcce799306e.xml ...
+  [revoked] Serial in file: fa003d678f150018b66ee7722cf6d1ca
+  [revoked] Serial in file: 12b3c54faded363da2e98b3e5551fb5
 Checking: Samsung_a5c95cf9-9cef-4dc5-910f-fb34ff2d9d9c.xml ...
+  [revoked] Serial in file: b2aa1a8d8ecd224b835d187eba0bafce
+  [revoked] Serial in file: c7e4699a1cc2286c4bb9ad4f1df2223
 Checking: Samsung_ac8cbf27-7512-4c3f-9258-cd715286ce50.xml ...
+  [revoked] Serial in file: 570881c08ea65f031f1ae02a8a1b2f68
+  [revoked] Serial in file: 9f741118508f4e412080d21f55fa412a
 Checking: Samsung_c1fd4acb-9071-4f54-ad4f-1f05076e3eb6.xml ...
+  [revoked] Serial in file: dec8d19c4fd456caae1ba785881d9419
+  [revoked] Serial in file: c4f478bda6e17d498ebbcdc1b506a94e
 Checking: Samsung_cae1e744-7157-41ed-8c81-d8c93fba4fbb.xml ...
   [revoked] Serial in file: 3439b76c89282dadba8d72bf6e1091b9
   [revoked] Serial in file: 4cef045948674ffca25849dcbd5ab1b4
 Checking: Samsung_d1de8a3b-08cf-4656-85ac-598c95ec6bc6.xml ...
+  [revoked] Serial in file: ed7eeb660485b7331003f7775a397004
+  [revoked] Serial in file: 48deb4be2f87a3af69453a83a99a0abd
 Checking: Samsung_d75ee5d1-9516-48a9-b07c-fdeff995b17a.xml ...
+  [revoked] Serial in file: 8bbe6f26dd861f875e9da0b05753aa7
+  [revoked] Serial in file: 6a8784bf6f947a0a5871bdd778919f83
 Checking: Samsung_fdce1a69-0c08-4a4d-b566-c50ab9f37b5f.xml ...
+  [revoked] Serial in file: c6aca413a9f054cc9fb1a7b788e8e855
+  [revoked] Serial in file: f058006ad338d6630c10d883e33cf622
 Checking: SICO_8b0ba8f9-3def-4cb8-8ee6-65c1ea95403e.xml ...
+  [revoked] Serial in file: 9410794179144343702
+  [revoked] Serial in file: 8320177972708966706
 Checking: Singtech_5e35952a-4f94-43e2-9ed5-52cbcf98d2ee.xml ...
+  [revoked] Serial in file: 14819540093924744456
+  [revoked] Serial in file: 9171053078655959033
 Checking: SPC_8dc79e6f-aab9-42d6-9349-e214b9f38fc3.xml ...
+  [revoked] Serial in file: 17061596236968583998
+  [revoked] Serial in file: 16978647816055228152
 Checking: SPURT_ec287320-1263-455c-955b-26dfd116a333.xml ...
+  [revoked] Serial in file: 5796580242742729660
+  [revoked] Serial in file: 1763196739707640694
 Checking: Starlight_5e8e1cb3-9951-4652-b5d4-fd20e5f33388.xml ...
+  [revoked] Serial in file: 15090815292607871240
+  [revoked] Serial in file: 1326159620664152793
 Checking: Starlight_ca6cec98-9d32-44f4-8371-6c259de65cb6.xml ...
+  [revoked] Serial in file: 9875217916125278763
+  [revoked] Serial in file: 17578833306264440815
 Checking: Symphony_739959ab-c8f3-4305-9e20-c0648c587ad6.xml ...
+  [revoked] Serial in file: 10bee388f4a7e5834ca807240b0ddf4b
+  [revoked] Serial in file: 35fbbc21fed23e623c4782bae323f4b1
 Checking: Symphony_c0500f79-fa66-4259-bc93-22716b81698d.xml ...
+  [revoked] Serial in file: 16847481250324491724
+  [revoked] Serial in file: 10962156029558380693
 Checking: Symphony_da013f5a-e754-43c8-b367-c7907c61a500.xml ...
+  [revoked] Serial in file: 17238018999084429581
+  [revoked] Serial in file: 16314893215351939417
 Checking: Teracube_b9c0937f-0154-4ec2-bfd8-2ce4ae07f000.xml ...
+  [revoked] Serial in file: e47c7e8169eb66e217385fb8ca14c088
+  [revoked] Serial in file: 838e78930598fc6dce477c0f5a394de0
 Checking: Texet_5b1e2663-5030-4514-881d-0e1ab97e7f04.xml ...
+  [revoked] Serial in file: 6009156749090546607
+  [revoked] Serial in file: 11636949311683074888
 Checking: Ulefone_1c9ff56b-983d-4c8c-a5f3-1b68fa7a925a.xml ...
+  [revoked] Serial in file: 3800154246956590317
+  [revoked] Serial in file: 15186824504550983658
 Checking: Ulefone_2d749eb9-5b5d-4a98-9bc9-75196c5bb622.xml ...
+  [revoked] Serial in file: bc50c697f40fe52ed6457f7ec140ecb8
+  [revoked] Serial in file: 9dea252fdc20f5e11d3ae726d7b8e272
 Checking: Ulefone_4d2a4b01-58a6-4c2c-b6b3-42047e28b453.xml ...
+  [revoked] Serial in file: 13711913594309760306
+  [revoked] Serial in file: 7868419546214780077
 Checking: Ulefone_66f09469-1783-486f-a4e3-6ea33431cb0b.xml ...
+  [revoked] Serial in file: 904597665168557817
+  [revoked] Serial in file: 2105854492919804843
 Checking: Ulefone_9d024b27-d859-449e-ae5d-6f7f64622af1.xml ...
+  [revoked] Serial in file: 11916447193879051189
+  [revoked] Serial in file: 4482296225297529573
 Checking: Ulefone_9d1a04be-1f7b-420c-b4f8-69f2e419a388.xml ...
+  [revoked] Serial in file: 11208952941045839933
+  [revoked] Serial in file: 6411147082865968306
 Checking: Ulefone_a09ce70c-efca-458f-8dce-9f114fd03651.xml ...
+  [revoked] Serial in file: d897bc706dfd22d6977f94bf513d650d
+  [revoked] Serial in file: 289a23b00983fe0f44c08f695c85320b
 Checking: Ulefone_b7519719-4921-454b-9e63-812159ab95de.xml ...
+  [revoked] Serial in file: 1155490620940983400
+  [revoked] Serial in file: 15075505255666828048
 Checking: Leagoo_400fe357-740d-445a-9e6f-94867fe94db7.xml ...
+  [revoked] Serial in file: 15941200544319960943
+  [revoked] Serial in file: 13441972794592342963
 Checking: Leagoo_7fa3e4d1-953e-48ed-a4fe-7d7b6dd39871.xml ...
+  [revoked] Serial in file: 9272390011886656089
+  [revoked] Serial in file: 9388906920678654636
 Checking: Leagoo_f8253d9c-0255-451f-a200-d48b3e1b001e.xml ...
+  [revoked] Serial in file: 6880795284458473500
+  [revoked] Serial in file: 3823710094411334635
 Checking: Masstel_130de2f6-699c-4619-9fe7-f9630fe9d64a.xml ...
+  [revoked] Serial in file: 1452953562818154128
+  [revoked] Serial in file: 7981869595430595422
 Checking: Masstel_bde1ac26-7571-4cbd-aa1f-f5fa92caff87.xml ...
+  [revoked] Serial in file: 12017306725415636169
+  [revoked] Serial in file: 8848169697284734027
 Checking: Mobiistar_e4f78e69-d1ef-4476-89da-1e3868d6d479.xml ...
+  [revoked] Serial in file: 8347887615065805421
+  [revoked] Serial in file: 11733351138301101177
 Checking: Multilaser_19985b4e-41a5-4a5c-9183-9225956c8ba9.xml ...
+  [revoked] Serial in file: 14878995176060583154
+  [revoked] Serial in file: 12192488375890257623
 Checking: Multilaser_c7e17c55-2a2c-4e51-af4b-a5b829c64509.xml ...
+  [revoked] Serial in file: 12298939580228515010
+  [revoked] Serial in file: 1084705286101344821
 Checking: myPhone_bbe76ac8-aeda-4d10-84bd-21f0c490df72.xml ...
+  [revoked] Serial in file: 6773449812528531006
+  [revoked] Serial in file: 14159589219790376395
 Checking: Neffos_38a9c799-f1a4-4a5f-8770-cb47b4c6cda0.xml ...
+  [revoked] Serial in file: 2002439975780784871
+  [revoked] Serial in file: 2108478663166389120
 Checking: NOA_78ee3c6a-05e4-41ae-99fe-c7f4f44975e3.xml ...
+  [revoked] Serial in file: 1464019828488724259
+  [revoked] Serial in file: 17118167053909861713
 Checking: Nokia_76fe7f72-dc57-4129-8777-5946ecf61fdb.xml ...
   [revoked] Serial in file: f6e446ac740240c40da061310559b292
   [revoked] Serial in file: 34b4a0d417b0ed62fd51624640d6824d
@@ -477,140 +1302,273 @@ Checking: Nokia_9f795e2d-db47-4f6a-859e-9c84369415df.xml ...
 Checking: Nokia_a41c3217-2014-4977-a400-b0d1f23e458a.xml ...
   [revoked] Serial in file: ce8f3231bc015ff94eedf5ef5cee23fb
 Checking: OALE_f81bebb9-b1cc-4986-89fe-8722531f0560.xml ...
+  [revoked] Serial in file: 14000298514891905504
+  [revoked] Serial in file: 13307128211442885806
 Checking: Oukitel_328120ed-4e7c-4ee2-85eb-d2ec4c265f69.xml ...
+  [revoked] Serial in file: 10023936558530442420
+  [revoked] Serial in file: 15540274449928055820
 Checking: Oukitel_3f5c8406-da24-47a5-86b3-7827198cf152.xml ...
+  [revoked] Serial in file: 1574398416009541551
+  [revoked] Serial in file: 17810662769317925854
 Checking: Oukitel_7428d0d0-8b12-4260-815d-620f5c149c18.xml ...
+  [revoked] Serial in file: 8750753319430020988
+  [revoked] Serial in file: 8530114963566697540
 Checking: Oukitel_bd471397-a364-4359-83b6-fbca193ff3dd.xml ...
+  [revoked] Serial in file: 18067698762439085170
+  [revoked] Serial in file: 117641643700904756
 Checking: Oukitel_f90aac48-56b3-487e-ab8d-fe474f5e4e2e.xml ...
+  [revoked] Serial in file: 16289592873577326104
+  [revoked] Serial in file: 3776381504302433477
 Checking: Pixus_b6e606b5-0d09-4035-9b32-b89059cd5e2f.xml ...
+  [revoked] Serial in file: 2112119863012824985
+  [revoked] Serial in file: 11339079158700393097
 Checking: Prestigio_401fb639-962d-412a-8b67-3749cccd85da.xml ...
+  [revoked] Serial in file: 12288226543848164915
+  [revoked] Serial in file: 14283460707808447725
 Checking: Prince_665fe7c2-86c4-425a-8239-700a8d0c02db.xml ...
+  [revoked] Serial in file: 1527982042581820614
+  [revoked] Serial in file: 18271488747603317775
 Checking: QMobile_89a49fc1-30cd-41fd-bba0-2529ce39b0a5.xml ...
+  [revoked] Serial in file: 963768809529433092
+  [revoked] Serial in file: 11788250767556650409
 Checking: QMobile_e3a4a935-1eb9-49f8-be48-5c151b38365f.xml ...
+  [revoked] Serial in file: 9502956134713648853
+  [revoked] Serial in file: 14966682278936584940
 Checking: Reafoo_2b6e1905-c9bd-49e3-8395-416839cbee8f.xml ...
+  [revoked] Serial in file: 5551763936800573038
+  [revoked] Serial in file: 10503725523830304740
 Checking: Reeder_6a390b1a-6d9e-4960-9998-e58c9c2f6dc8.xml ...
+  [revoked] Serial in file: 2820053835759677968
+  [revoked] Serial in file: 16415197291181805823
 Checking: Samsung_34dea7a1-4b79-4cde-9f61-bac72b2522a5.xml ...
+  [revoked] Serial in file: 7ab6dc32dca96be67fc2d577b6eeb64c
+  [revoked] Serial in file: c42d280bf54cf4e618df19119028527c
 Checking: Samsung_3d855d72-0f3e-4f46-ad9b-3166614c071c.xml ...
+  [revoked] Serial in file: ae528415f83baca55a393b9552a240f8
+  [revoked] Serial in file: 7596a333df2a44a846db406f0ada40c8
 Checking: Samsung_63a7dc81-0e82-409f-ab88-27ac0429d950.xml ...
+  [revoked] Serial in file: 7ca71ac5d164067a951d2e5c7f226fc1
+  [revoked] Serial in file: 838a5be94c6b9bb6e29caea816503508
 Checking: Samsung_c90b842f-d9d5-46c3-a1f8-fea953e5951c.xml ...
+  [revoked] Serial in file: 4af139f08ad9fa91edd693a995525093
+  [revoked] Serial in file: cb15c743dccd2afd8a36734ea9dae9c0
 Checking: Samsung_ddeddc98-76b2-46ae-bacf-fd2c33b7c007.xml ...
+  [revoked] Serial in file: 597542ce10d7da1dc57063d3e2b0eacf
+  [revoked] Serial in file: 96538b4e6ac0871733e286b50744cf3a
 Checking: Samsung_e5871849-1324-446a-802f-1f95729026c2.xml ...
+  [revoked] Serial in file: 3fb1d8dfe3d1f1a736309548379fa8b3
+  [revoked] Serial in file: 74f9b6cef86a78b1e11bb1f0f4cf3031
 Checking: Samsung_f27d7c96-c939-447b-82fe-e9970a5e1d6e.xml ...
+  [revoked] Serial in file: 3adb958768d10e087f318860c3552e53
+  [revoked] Serial in file: 15e50f1bf3b64699e0a7a3cfb5ece22
 Checking: S-TELL_f23a7585-8651-4378-912b-c1991fa50331.xml ...
+  [revoked] Serial in file: 8110090762508490592
+  [revoked] Serial in file: 14286825102022472874
 Checking: Symphony_865842ba-293f-4e61-9c7e-ca7df232f862.xml ...
+  [revoked] Serial in file: 5800867311117575392
+  [revoked] Serial in file: 5126115517797582614
 Checking: Texet_58900e83-559a-4c38-a1c5-9674a7bb6ea6.xml ...
+  [revoked] Serial in file: 1531526806337447631
+  [revoked] Serial in file: 1673152882458880174
 Checking: Ulefone_368373f3-11f4-404e-8aec-5d559f3873a9.xml ...
+  [revoked] Serial in file: ad06c8947ae0330530d69ea13dbb0c46
+  [revoked] Serial in file: 3a503c3608f009489fb5441fced08510
 Checking: Ulefone_4949151f-e6a5-41fa-8cc8-b7a74ae6ebac.xml ...
+  [revoked] Serial in file: 422e4c7fa947a2c67a5f3cbb5ce1dd61
+  [revoked] Serial in file: c184178d9e0b3bf7efc96061df775502
 Checking: Ulefone_bfd7fcbe-7284-49ee-b2b8-c73106eb2542.xml ...
+  [revoked] Serial in file: 3927336026342535187
+  [revoked] Serial in file: 1666861934994215943
 Checking: Ulefone_cc1754e1-3c79-4c34-9b91-eff3b791af8d.xml ...
+  [revoked] Serial in file: 50d43ac2edd105acc2f3dd27a3f89f7d
+  [revoked] Serial in file: 1ec0d244d33deb30dd81e930b2adac02
 Checking: Ulefone_df52feb8-a5cc-4677-9430-b3724bccec10.xml ...
+  [revoked] Serial in file: 6166072948908210713
+  [revoked] Serial in file: 1377630786971836265
 Checking: Ulefone_e54d5ab3-4c80-4405-a299-5827d420c939.xml ...
+  [revoked] Serial in file: 5178287081129423789
+  [revoked] Serial in file: 7923982653928160481
   [revoked] Serial in file: 3882667606589968590
 Checking: Ulefone_ee6aa785-ef39-4431-8dfe-c42afce236cc.xml ...
+  [revoked] Serial in file: 6347142543511269762
+  [revoked] Serial in file: 16033264165655702987
 Checking: Umidigi_38fcc315-49d8-42b1-8512-adf6278c8838.xml ...
+  [revoked] Serial in file: 8449600099483914217
+  [revoked] Serial in file: 9419662024463691407
 Checking: Umidigi_87837530-7477-4298-89ae-e274c2645b0d.xml ...
+  [revoked] Serial in file: 12881272616687903744
+  [revoked] Serial in file: 16147705152937096821
 Checking: Umidigi_8db90f6c-8829-4823-bcf4-c5db68bdb94c.xml ...
+  [revoked] Serial in file: 17034408322946736983
+  [revoked] Serial in file: 2872673238881270298
 Checking: Umidigi_bfbaaf55-e171-4959-90e3-fd39c85eda8a.xml ...
+  [revoked] Serial in file: 1178038086740859843
+  [revoked] Serial in file: 15174630402361350273
 Checking: Vertex_b57dcfec-4ef2-45fb-962a-7ad4b330eea9.xml ...
+  [revoked] Serial in file: 5442377335657269541
+  [revoked] Serial in file: 7392447382986419808
 Checking: Vestel_2d8d99e1-7ad9-40fe-9cd6-3e96026fd288.xml ...
+  [revoked] Serial in file: 18233080163673465153
+  [revoked] Serial in file: 2602045008040826055
 Checking: Vestel_a3b16642-6ea6-4770-8cb2-c2ff194baca6.xml ...
+  [revoked] Serial in file: 2854910309230616064
+  [revoked] Serial in file: 3103615013196461930
 Checking: WE_2cf2ea48-f7c5-48f1-8d9d-cfe263873dcb.xml ...
+  [revoked] Serial in file: 17938153420901311612
+  [revoked] Serial in file: 15912351554005605136
 Checking: WE_b4a1c4ae-c36c-4b05-8ae4-279ae70e7319.xml ...
+  [revoked] Serial in file: 16970836750068880395
+  [revoked] Serial in file: 11392191266947904823
 Checking: Wiko_8a3108ad-382e-4574-907d-8bd84e067980.xml ...
+  [revoked] Serial in file: 8905469326550605719
+  [revoked] Serial in file: 9697459151203915836
 Checking: ZOJI_16e31a7e-9abf-4edf-b0f9-122f37d0af16.xml ...
+  [revoked] Serial in file: 4061523374141050955
+  [revoked] Serial in file: 16896272140028785693
 Checking: Unihertz_46095dbf-c29b-4b10-a6c8-3c85e7fb3091.xml ...
+  [revoked] Serial in file: 16720587277114481917
+  [revoked] Serial in file: 1507462507946346962
 Checking: Vertex_e9b7bfb0-5139-4686-96fd-8705aac74935.xml ...
+  [revoked] Serial in file: 7276109578027128348
+  [revoked] Serial in file: 16432838779229631789
 Checking: Wiko_25bd3454-dcf6-48ae-8018-0b601ffcb006.xml ...
+  [revoked] Serial in file: 12489614005608467205
+  [revoked] Serial in file: 121431651638244601
 Checking: Wiko_36c419bc-d2a3-4dec-90a5-196a483f36a8.xml ...
+  [revoked] Serial in file: 7133362158973081313
+  [revoked] Serial in file: 3846781776390735773
 Checking: Wiko_6e241c65-7f6e-47d5-a4e4-9e074d189821.xml ...
+  [revoked] Serial in file: 8ada685f2fda0516f1bc52313b69201d
+  [revoked] Serial in file: 766db713d5afa7220997db68c53efed8
 Checking: Wiko_903929e6-e913-43d6-ae20-238423e3c5f9.xml ...
+  [revoked] Serial in file: 6251451507822755425
+  [revoked] Serial in file: 3693975659964515917
 Checking: Wiko_3dfc409b-18a9-49cb-86d0-c985f827048d.xml ...
+  [revoked] Serial in file: 10923918505980797867
+  [revoked] Serial in file: 8773670515854207186
 Checking: Wiko_80b1b32a-1d64-424d-addd-517df9c4a100.xml ...
+  [revoked] Serial in file: 5537249393494455827
+  [revoked] Serial in file: 14044585766286025501
 Checking: Wiko_d85e8505-3e97-4b78-a357-8ef55b027fb2.xml ...
+  [revoked] Serial in file: 90ddb771656f7cc4447b505734ade2ff
+  [revoked] Serial in file: b7bc13a93ae48d234ab526748deec83a
 Checking: Ulefone_f298ed6e-2c7e-45ad-9198-c26bb3c58257.xml ...
+  [revoked] Serial in file: bf35c127bc5c226b7014f3cbb48cd0d3
+  [revoked] Serial in file: 730435a69bb9a8f137c68dbc3bcc6f51
 Checking: Umidigi_ddbd6aa2-a520-4a8d-92b4-4ef4129696b5.xml ...
+  [revoked] Serial in file: 4652773004182919035
+  [revoked] Serial in file: 1125189907693795142
 Checking: Unihertz_496a07ea-3ae0-4fbd-b80d-329607cccaae.xml ...
+  [revoked] Serial in file: 2511561409177005300
+  [revoked] Serial in file: 4948035297455984889
 Checking: Vertex_7e9ca140-8d13-4809-8305-fa6517026670.xml ...
+  [revoked] Serial in file: 3701062711171616313
+  [revoked] Serial in file: 13838685811062520234
 Checking: Vestel_3a571c08-df2b-4d18-9992-e46d0648fd8d.xml ...
+  [revoked] Serial in file: 6205714689181825610
+  [revoked] Serial in file: 12738228678281827730
 Checking: Vkworld_0fc654ea-d2c4-4578-9aeb-9b2fb3d4c429.xml ...
+  [revoked] Serial in file: 7723354809943408389
+  [revoked] Serial in file: 12108331042154110628
 Checking: Vkworld_d96fc39e-57c5-42f5-9009-c4dfebffbf02.xml ...
+  [revoked] Serial in file: 7995574425376179113
+  [revoked] Serial in file: 10210924765282876589
 Checking: Vmobile_c82c8397-f706-4f81-97f1-07caffb0ab17.xml ...
+  [revoked] Serial in file: 4245666708619245000
+  [revoked] Serial in file: 6575160411143333165
   [revoked] Serial in file: 3882667606589968590
 Checking: Vmobile_ebe0a75a-f50c-4c4d-b3f2-94d2d0d14843.xml ...
+  [revoked] Serial in file: 8818084218485394148
+  [revoked] Serial in file: 17844940152848638528
 Checking: Walton_1ab609ad-cb67-4af2-8ab4-623558aa05c9.xml ...
+  [revoked] Serial in file: 13509178331638261369
+  [revoked] Serial in file: 1471850772787092846
 Checking: Walton_ccdcf45c-6ae4-49aa-a64c-2dbf525e4ee9.xml ...
+  [revoked] Serial in file: 1916843696751721109
+  [revoked] Serial in file: 1057240240538259577
 Checking: WE_b0eaddea-3e2b-44f2-a14f-69ff7743c135.xml ...
+  [revoked] Serial in file: 9051065598451461544
+  [revoked] Serial in file: 8918736491675513445
 Checking: Wiko_6fdca964-6107-4f5d-afbf-ac48c6e6a9fa.xml ...
+  [revoked] Serial in file: 15928591800696498753
+  [revoked] Serial in file: 2734249766672844482
 Checking: Wiko_80b934ef-d7ff-45d1-86e3-182a8e0e5386.xml ...
+  [revoked] Serial in file: 6682283100830108688
+  [revoked] Serial in file: 18252850908762815735
 Checking: Wiko_95002663-93d2-427b-93dc-584c0078a99b.xml ...
+  [revoked] Serial in file: 163221648729987128
+  [revoked] Serial in file: 6704705810087230459
 Checking: ZOPO_9a829d15-4f46-4716-bc96-8b0b43aa74be.xml ...
+  [revoked] Serial in file: 15346992428359239506
+  [revoked] Serial in file: 15764292995864333197
 Checking: Vernee_0bc2b320-be97-48e0-a63d-ee200e696ea2.xml ...
+  [revoked] Serial in file: 12139230682136140379
+  [revoked] Serial in file: 122520385525670372
 Checking: Vernee_adf0b902-0e6d-43db-a801-17d1e0f536a1.xml ...
+  [revoked] Serial in file: 482165607659389496
+  [revoked] Serial in file: 7411973349653658388
 Checking: Vertex_09ae98c9-df43-44a5-b929-15eaa9fb41d6.xml ...
+  [revoked] Serial in file: 12304988636299822884
+  [revoked] Serial in file: 11094573067901655346
 Checking: Vertex_99cb076e-b1a3-4338-9f87-57d3113081de.xml ...
+  [revoked] Serial in file: 4589986392077207171
+  [revoked] Serial in file: 7644813236226458108
 Checking: Vmobile_d5af874f-56df-4a6b-b1b2-eac402306660.xml ...
+  [revoked] Serial in file: 3200357748551199252
+  [revoked] Serial in file: 11250226164724296770
 Checking: Walton_36a68da3-556c-47b1-acd1-96ebab955222.xml ...
+  [revoked] Serial in file: 751430638206168356
+  [revoked] Serial in file: 5324022739477826123
 Checking: Walton_5373b652-0be2-432e-8175-d1092ae1d1c1.xml ...
+  [revoked] Serial in file: 1653831828391703419
+  [revoked] Serial in file: 8072193170930519341
 Checking: Walton_58ddb671-2a32-486d-a2ed-ed31e3a49995.xml ...
+  [revoked] Serial in file: 9027434868267373282
+  [revoked] Serial in file: 7961112603018817156
 Checking: WE_e3c93e09-3033-4406-8a20-a4df121faf79.xml ...
+  [revoked] Serial in file: 16489576912621229382
+  [revoked] Serial in file: 2180198242210128636
 Checking: Wiko_0a449686-29d7-4698-9248-6121094afdc4.xml ...
+  [revoked] Serial in file: d3b58d3f52707d233376e4b38bedcbd6
+  [revoked] Serial in file: 1d9221ebb6a51aebbebf6ed7fbaba96b
 Checking: Wiko_869c8561-5140-426c-8e9f-167f4005e56d.xml ...
+  [revoked] Serial in file: 8979249833858077462
+  [revoked] Serial in file: 13643728516653640363
 Checking: Wiko_f8869387-a7df-45c0-8bc8-409f1ecdb6f5.xml ...
+  [revoked] Serial in file: 4671420421077182141
+  [revoked] Serial in file: 8711134784823922669
 Checking: Wiko_9937f0b3-7f94-4bb4-b056-0c0875d7be12.xml ...
+  [revoked] Serial in file: bbfda806c0722524ed2f75bae1201bce
+  [revoked] Serial in file: 24dfdad1b3579f04e54712e11b270488
 Checking: Wiko_cab0a503-92f9-45a6-a80c-d0ab5f8fac01.xml ...
+  [revoked] Serial in file: 7391613555443291808
+  [revoked] Serial in file: 70694594482709147
 Checking: Umidigi_0beb969f-6d15-40b6-897d-1a2ba714e44f.xml ...
+  [revoked] Serial in file: 3551962342908689294
+  [revoked] Serial in file: 4752492473328021080
 Checking: Vernee_76c346c3-2f89-4083-8d6c-0ce5663fc486.xml ...
+  [revoked] Serial in file: 8312359647055888307
+  [revoked] Serial in file: 15740840925928057374
 Checking: Vertex_37d824ee-c1d7-4a24-915f-2b99ac39c97e.xml ...
+  [revoked] Serial in file: 1205036314168619843
+  [revoked] Serial in file: 10054463320693306896
 Checking: Walton_47592334-2f5a-4eba-9814-b4054495fbf0.xml ...
+  [revoked] Serial in file: 6022819251459360700
+  [revoked] Serial in file: 3253987101493895202
 Checking: Walton_5762e9d2-20ca-49ce-9bc4-fa966b9ea859.xml ...
+  [revoked] Serial in file: 47e95a8fff5133b9b2c83c0354c0dd24
+  [revoked] Serial in file: 540545c2c477c0dd9463984a35122146
 Checking: Wiko_aa95776f-0cce-4b59-9695-36bb4477e4ec.xml ...
+  [revoked] Serial in file: d4a312c5fb44ea361718cce8c1c2013d
+  [revoked] Serial in file: 2aa154fa2ddb4ca5303b517b5be1b6c6
 
 ==== Results ====
 Revoked files:
-  Aiwa_b6c0735d-2a79-465f-861e-94210cf500b1.xml
-  Attila_bf242626-2d35-46fa-93ce-13391128b189.xml
-  Blackview_cd044e45-2808-4ffd-ad82-ba311f6e2bff.xml
-  BLU_21cf01b7-e376-4faf-a70b-7dcb832a74c4.xml
-  BLU_caa0947f-6f9c-46a1-856f-3d7e6c598741.xml
-  Bluedigit_d2604652-e363-4cdb-879c-b2bea4028435.xml
-  Bluedigit_eac30c85-c654-45dd-9be4-5588d8ba7846.xml
-  Chuwi_8f325a1e-68ee-44da-96dc-57254d282eda.xml
-  Coolpad_102bf573-9159-46ed-ad48-de87ecd1786d.xml
-  DEXP_ad85a07d-7005-4bd2-a7f5-b62157ef37bb.xml
-  Hisense_a43090c7-8783-449c-8f9c-02df8bcc0705.xml
-  Lava_77601dac-3969-43f0-9492-2a2b7f6218cd.xml
-  HSEM_12783677-69ea-40a6-a837-363f290d6686.xml
-  INOI_2a30af25-a1be-4ba0-83ca-41bab6b5838a.xml
-  Lava_b063f5e7-f153-45fd-9a50-f813fa4b5e3b.xml
-  Leagoo_740d78bd-a356-43e2-8968-33cc8bddbf6b.xml
-  Leagoo_825c6299-d690-4ec3-af2c-3f3514abec16.xml
-  Nokia_0d53f5ca-28e8-4a5d-acf2-d0d88d26bbae.xml
-  Symphony_8b5826ac-7020-4b12-903a-26e8e9480296.xml
-  Teesso_14b69b66-5cb0-435c-a869-0fd11d61d8f7.xml
-  motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml
-  Nokia_7f0a0888-dce1-441b-8b65-810bcff73c0f.xml
-  Nokia_ae4f783f-d9b8-48db-9644-f7ac58860fbb.xml
-  OTOT_05c54cb8-31cf-413f-ab83-705803f327c6.xml
-  Oukitel_e824e5fa-0691-4643-b01a-69604e4f9145.xml
-  Prestigio_94217144-4af6-48a2-b28c-cc240421c51a.xml
-  Tech_3e87922c-3985-4f5b-a2e0-3ebe4efbbb54.xml
-  Kiowa_3cf33db7-1b89-4899-94d6-0a842d274176.xml
-  Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml
-  motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml
-  realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml
-  Samsung_5bb2159d-9f28-4b40-aa46-ed33ab3a9a4b.xml
-  Samsung_cae1e744-7157-41ed-8c81-d8c93fba4fbb.xml
-  Nokia_76fe7f72-dc57-4129-8777-5946ecf61fdb.xml
-  Nokia_9f795e2d-db47-4f6a-859e-9c84369415df.xml
-  Nokia_a41c3217-2014-4977-a400-b0d1f23e458a.xml
-  Ulefone_e54d5ab3-4c80-4405-a299-5827d420c939.xml
-  Vmobile_c82c8397-f706-4f81-97f1-07caffb0ab17.xml
-
-Valid files:
   2E_328772e9-824e-4720-a1d4-55c37c474a0f.xml
   Accent_13da79b7-a133-4bdd-a4b9-0f794389ea66.xml
   Aiwa_51076fee-f2fa-4573-b19e-48a4acf3e685.xml
   Aiwa_76e0d66e-6401-42d5-931a-70ddb51ba792.xml
+  Aiwa_b6c0735d-2a79-465f-861e-94210cf500b1.xml
   AllCall_bfec2384-e6aa-49f5-ba24-4371afa066dd.xml
   AllCall_c0f41642-0cfe-449a-8fe8-11e7267a464c.xml
   AllCall_e1702868-c6ef-4105-8a1c-5bbb615fa9a2.xml
@@ -625,6 +1583,7 @@ Valid files:
   ASUS_8bdebdd5-6ae7-4c4f-a1ab-49f8158282a3.xml
   ASUS_bd8ecfdc-d585-4c4a-8778-df8c77e3db40.xml
   ASUS_cc6bf703-92fd-4267-b897-ff0a92a24fc4.xml
+  Attila_bf242626-2d35-46fa-93ce-13391128b189.xml
   Beyond_d9d554bd-6669-40e2-b383-9d9b81f965f7.xml
   Black_61ba1366-b0b0-482c-89d3-2f418b7f251b.xml
   Black_b83efba1-0829-45c0-aa03-308db3a50957.xml
@@ -639,6 +1598,7 @@ Valid files:
   Blackview_7c03c2d9-4c32-4b61-ba5d-95fba548f3fd.xml
   Blackview_8c12e52e-ad8a-4de7-9317-3f428e2e4b57.xml
   Blackview_b28ddb48-5785-4887-8fe4-c494fad8747b.xml
+  Blackview_cd044e45-2808-4ffd-ad82-ba311f6e2bff.xml
   Blackview_d4ba7fe8-57b3-42da-ba0b-5e8d54fc89a9.xml
   Blackview_fc954a79-7938-49f9-b35d-35753dd381f4.xml
   Blaupunkt_1e14a30b-3102-4f2f-9bca-65b4feea6fa5.xml
@@ -646,6 +1606,7 @@ Valid files:
   BLU_1861e326-c0a4-410b-b437-25facfd0e1ca.xml
   BLU_1ca44992-40a7-4223-93de-0ec773e6a0a1.xml
   BLU_1d10659c-661e-4c1e-97b8-8b1cf6c5326d.xml
+  BLU_21cf01b7-e376-4faf-a70b-7dcb832a74c4.xml
   BLU_3cb15f34-289c-4f18-b854-44796e3c958a.xml
   BLU_3d549db2-2ecd-42f9-afe1-bb935d169c92.xml
   BLU_4505c8ce-ccb4-44a6-aa80-2a77a79336e8.xml
@@ -658,8 +1619,11 @@ Valid files:
   BLU_b5553fb2-ea65-4311-97a5-717441de18f7.xml
   BLU_b5cedfb1-4449-4772-8854-7617ecf52616.xml
   BLU_b927c871-7734-4124-8b07-aa8056484f37.xml
+  BLU_caa0947f-6f9c-46a1-856f-3d7e6c598741.xml
   BLU_e42f45f6-5552-4c3d-9115-8aa9d048aee9.xml
   Bluedigit_17b25b66-8723-49a3-99eb-efbf4fbe7905.xml
+  Bluedigit_d2604652-e363-4cdb-879c-b2bea4028435.xml
+  Bluedigit_eac30c85-c654-45dd-9be4-5588d8ba7846.xml
   BLU_f557730c-bedf-4600-83d5-f7264f442a99.xml
   BQ_0407d753-34d7-4be8-8551-12d2ee1ebf5f.xml
   BQ_11ecff23-f2f0-4b7f-9680-c0730fbf5ab2.xml
@@ -671,13 +1635,16 @@ Valid files:
   BQ_dc8daeeb-f307-40a7-ac38-0ac387ffc1db.xml
   BQ_fe6b0d4a-7b4a-4ecb-95f3-3a2604e1b1f3.xml
   Cherry_a81b7ee9-27fb-409a-bcba-50cdd30fb71a.xml
+  Chuwi_8f325a1e-68ee-44da-96dc-57254d282eda.xml
   Conquest_f26c0ae3-7aef-46c9-9de6-ad68df72f836.xml
+  Coolpad_102bf573-9159-46ed-ad48-de87ecd1786d.xml
   Cubot_47d6c5f9-3e5b-48ad-989c-c31482be6752.xml
   Cubot_6a487d87-14a5-42cd-bdb1-e6c42b167bc6.xml
   Cubot_94abfd72-8b04-45c0-bbc7-7c763fd49436.xml
   Cubot_caad2e87-cb52-4690-a89d-ee5eef53d372.xml
   Cubot_da1e10d6-4798-400f-a406-2fa3415a6634.xml
   DEXP_131c5696-e8ee-4596-bc34-462d3b83c7ca.xml
+  DEXP_ad85a07d-7005-4bd2-a7f5-b62157ef37bb.xml
   DEXP_c208de97-83a8-4432-a9f5-890634604290.xml
   Digi_730b4320-3c55-4913-a0c5-d6380337cea1.xml
   Ding_635f664a-8bbc-41f6-9a6e-e73bcac3efc1.xml
@@ -729,6 +1696,7 @@ Valid files:
   Haier_afbeef60-d8a8-461c-9b5a-63885a917a7c.xml
   Haier_eda191e8-810e-468b-9760-2fa0a1f2212b.xml
   Haier_f7092c91-66fe-48cd-b2bd-b34024f40b92.xml
+  Hisense_a43090c7-8783-449c-8f9c-02df8bcc0705.xml
   HIYA_576064f4-a258-4d39-a34a-e930500ca685.xml
   HIYA_be092520-8ddd-4460-addf-686ed04997dc.xml
   HOTWAV_90fa3b59-94af-4666-b7a1-ea8b861ff1c1.xml
@@ -801,11 +1769,14 @@ Valid files:
   Lanix_2362461d-d765-4c64-b9e6-0ad2c1ed3656.xml
   Lanix_5fc60850-6f88-40dd-84f1-5f7a445040ab.xml
   Lanix_7fcf9258-549f-4c78-8874-5e1c755c527c.xml
+  Lava_77601dac-3969-43f0-9492-2a2b7f6218cd.xml
   Leagoo_17815b7d-9963-4071-a89c-8a4378830970.xml
+  HSEM_12783677-69ea-40a6-a837-363f290d6686.xml
   Hyundai_966ace97-104b-454b-bfc9-a2b076448ff5.xml
   iHunt_2736770c-e707-4479-b5f8-9ec7eeba3da8.xml
   iLA_4f391961-8d89-477f-a05f-53f66da9f17e.xml
   INOI_058833cc-6312-4099-a8e2-ae4f24a5ec0c.xml
+  INOI_2a30af25-a1be-4ba0-83ca-41bab6b5838a.xml
   INOI_69e499fe-1d07-4240-a32d-6859cbe15d7d.xml
   INOI_a122a449-9979-4332-8156-1a495b53b830.xml
   INOI_f3bccfd0-bd6a-49a4-9669-6234342efb6f.xml
@@ -813,13 +1784,17 @@ Valid files:
   Koolnee_b7e537c4-b64a-4ed1-bc01-b540cbd77647.xml
   Kruger&Matz_885d87a0-975e-46df-b8ab-a7defa992194.xml
   Lava_20c23dc1-ae97-405a-a698-98c2cf1d7c76.xml
+  Lava_b063f5e7-f153-45fd-9a50-f813fa4b5e3b.xml
   Lava_e4edf6da-b547-4f22-9c86-141824df7125.xml
+  Leagoo_740d78bd-a356-43e2-8968-33cc8bddbf6b.xml
+  Leagoo_825c6299-d690-4ec3-af2c-3f3514abec16.xml
   Leagoo_aebb3134-1b16-431d-ad7f-0139e15f19c5.xml
   Leagoo_b7cfbd7d-f670-4d30-9c1b-41437bdcd077.xml
   Logicom_8d025a56-c88b-45f8-bec2-6f330e112227.xml
   MI_1a86e996-56df-4b5d-8ae9-6d87576d43e1.xml
   Multilaser_2dc948eb-63a0-4b7d-b433-4d7715d52e49.xml
   Multilaser_9efe77dd-ed5f-45d2-8bcd-866a0890026b.xml
+  Nokia_0d53f5ca-28e8-4a5d-acf2-d0d88d26bbae.xml
   NUU_9761c8a2-dfd0-4b5b-9f27-aac48b1e87bb.xml
   Oukitel_2584ff3b-0cf6-4603-bde6-3dc8ce2a1f41.xml
   Oukitel_36fe0e39-e172-4d88-b82a-ea11b401f03d.xml
@@ -847,9 +1822,11 @@ Valid files:
   Samsung_d11a3b31-091f-40c0-9ab7-e33c73cc224b.xml
   Samsung_d515a92e-0ffe-4ca5-93ba-203c4ac112f7.xml
   Sonata_d6f6b9b4-2d99-4c3b-afaa-d2f4b5e6a505.xml
+  Symphony_8b5826ac-7020-4b12-903a-26e8e9480296.xml
   Symphony_ef7b2029-fa85-4f13-a576-4c42b1e18cb3.xml
   Tech_b069ba3a-4c3c-4288-a3c2-cabf5aa3bbbb.xml
   Teclast_9636a575-c88c-4a20-a5cd-7ae3ebdfcb3e.xml
+  Teesso_14b69b66-5cb0-435c-a869-0fd11d61d8f7.xml
   Turbo_5bf4fac0-640e-4377-9d02-f389d706be59.xml
   Turbo_62dcf5e9-15c6-49aa-8eac-9177baa0af4d.xml
   Ulefone_3b975a9b-7cbc-4cb7-ae35-94f0b5ba5971.xml
@@ -870,14 +1847,20 @@ Valid files:
   Leagoo_ea15eb6f-1195-44a1-a343-f6f2bf5ef8a5.xml
   Lenovo_10d04ac5-a2e3-4b09-8920-21306657020e.xml
   motorola_7f2b82f0-7d24-487e-b897-5743121f1e1b.xml
+  motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml
   Multilaser_e5255ccd-bc2a-4116-9959-df3b76a1866e.xml
   MYFON_dedd07f0-85da-4467-b033-956eff2e5bea.xml
   myPhone_05aef828-95ef-4598-88c8-235e85a7f75e.xml
+  Nokia_7f0a0888-dce1-441b-8b65-810bcff73c0f.xml
+  Nokia_ae4f783f-d9b8-48db-9644-f7ac58860fbb.xml
+  OTOT_05c54cb8-31cf-413f-ab83-705803f327c6.xml
   Oukitel_3b0eebf1-8efd-43b6-b675-64826c45dcc4.xml
   Oukitel_b57dc866-5b0c-45c7-8940-13acc02d68ff.xml
   Oukitel_c0490ae8-665c-4603-ab0c-3959d79e3a44.xml
+  Oukitel_e824e5fa-0691-4643-b01a-69604e4f9145.xml
   Polytron_e100e55f-863b-4417-8bf2-bf32dae036cb.xml
   Premio_5783361f-984e-4d25-b1d9-57e403fc8945.xml
+  Prestigio_94217144-4af6-48a2-b28c-cc240421c51a.xml
   Prince_25b6c4eb-a5a0-409c-bb44-412ec537df76.xml
   QMobile_27c46340-5dcc-4ef4-969e-bce083d49303.xml
   Samsung_0cac8e4f-8e9d-461a-b2bf-a8bec542a44d.xml
@@ -894,6 +1877,7 @@ Valid files:
   SKY_d41d88f6-f086-424c-add8-f7d836f8efa8.xml
   SPURT_26dddb0a-be10-47b6-a316-ef0a28a1392d.xml
   Symphony_a2cd5376-f36a-48a4-b55a-1a4eb440cea4.xml
+  Tech_3e87922c-3985-4f5b-a2e0-3ebe4efbbb54.xml
   Teracube_eb5fa5d5-407b-4fb1-80b4-365ab341d1e9.xml
   Texet_c3b489ae-319a-46e9-8451-7d1f74d167ca.xml
   Tokio_9f017919-13d8-48af-93ed-e83022572ede.xml
@@ -932,13 +1916,16 @@ Valid files:
   iPRO_fb9a8c91-cd3b-4d55-86d9-31334a8948a6.xml
   iVOOMi_1e4885db-4dc0-4fce-8a8a-880f8569bed3.xml
   KENBO_c3a06b0c-fa56-4d3a-b9ff-6b7061d70773.xml
+  Kiowa_3cf33db7-1b89-4899-94d6-0a842d274176.xml
   Konrow_9bd8c614-9cf9-4a8f-b142-44f33023149d.xml
   Lanix_c96aede3-3eeb-45c7-bfae-874e1d476811.xml
+  Lava_37ae5a64-4f3a-4b29-9e74-1f458e4922e0.xml
   Lava_76988e12-1ece-4a05-9b31-b6ed3ede2b25.xml
   Lava_fd68e300-0d1c-48a9-9d7e-869953975199.xml
   Leagoo_0a180542-fd09-4844-b3e3-2e9e50ee69bc.xml
   Leagoo_b845cece-2253-4671-a4b8-0dc2a387284b.xml
   Leagoo_c8e21334-05cc-43b0-bb62-c4eb95386f07.xml
+  motorola_96137b27-79fd-4435-953c-8588b2a196a5.xml
   Multilaser_2608a1e3-25ba-4942-bb58-f1d1076c8bd5.xml
   Multilaser_29bfd144-e74c-4070-82bb-c154d35a7c7d.xml
   Multilaser_a48fdfb6-2cf1-4f4d-84b4-9f757d49d307.xml
@@ -956,16 +1943,19 @@ Valid files:
   QFX_81b0716b-164d-4a30-ae3d-2bccff5bd7a7.xml
   Raylan_6f05d4ea-768d-4ac7-bc14-7b7b5c6bb7f5.xml
   Raylan_9deb3817-8fd8-4743-a5bc-4a9c2edbeb70.xml
+  realme_4b52b20d-ab57-4464-b1c3-d3dfd4ee1db1.xml
   ROKiT_37501089-094f-4b46-9f8c-eb5085da89ba.xml
   Samsung_1d1ca611-5ae6-4f52-b744-b6bb2f913257.xml
   Samsung_1d373597-3098-448e-9190-dd335e1fd92f.xml
   Samsung_2c515d26-f28f-4863-8778-170036d7e963.xml
+  Samsung_5bb2159d-9f28-4b40-aa46-ed33ab3a9a4b.xml
   Samsung_725da03e-67b3-463c-a281-40ab2d2f4202.xml
   Samsung_8e36b7d5-8484-4de3-8486-c4e514a9c4c0.xml
   Samsung_9ea40fa4-3fc0-43a3-a7ba-cbcce799306e.xml
   Samsung_a5c95cf9-9cef-4dc5-910f-fb34ff2d9d9c.xml
   Samsung_ac8cbf27-7512-4c3f-9258-cd715286ce50.xml
   Samsung_c1fd4acb-9071-4f54-ad4f-1f05076e3eb6.xml
+  Samsung_cae1e744-7157-41ed-8c81-d8c93fba4fbb.xml
   Samsung_d1de8a3b-08cf-4656-85ac-598c95ec6bc6.xml
   Samsung_d75ee5d1-9516-48a9-b07c-fdeff995b17a.xml
   Samsung_fdce1a69-0c08-4a4d-b566-c50ab9f37b5f.xml
@@ -999,6 +1989,9 @@ Valid files:
   myPhone_bbe76ac8-aeda-4d10-84bd-21f0c490df72.xml
   Neffos_38a9c799-f1a4-4a5f-8770-cb47b4c6cda0.xml
   NOA_78ee3c6a-05e4-41ae-99fe-c7f4f44975e3.xml
+  Nokia_76fe7f72-dc57-4129-8777-5946ecf61fdb.xml
+  Nokia_9f795e2d-db47-4f6a-859e-9c84369415df.xml
+  Nokia_a41c3217-2014-4977-a400-b0d1f23e458a.xml
   OALE_f81bebb9-b1cc-4986-89fe-8722531f0560.xml
   Oukitel_328120ed-4e7c-4ee2-85eb-d2ec4c265f69.xml
   Oukitel_3f5c8406-da24-47a5-86b3-7827198cf152.xml
@@ -1027,6 +2020,7 @@ Valid files:
   Ulefone_bfd7fcbe-7284-49ee-b2b8-c73106eb2542.xml
   Ulefone_cc1754e1-3c79-4c34-9b91-eff3b791af8d.xml
   Ulefone_df52feb8-a5cc-4677-9430-b3724bccec10.xml
+  Ulefone_e54d5ab3-4c80-4405-a299-5827d420c939.xml
   Ulefone_ee6aa785-ef39-4431-8dfe-c42afce236cc.xml
   Umidigi_38fcc315-49d8-42b1-8512-adf6278c8838.xml
   Umidigi_87837530-7477-4298-89ae-e274c2645b0d.xml
@@ -1055,6 +2049,7 @@ Valid files:
   Vestel_3a571c08-df2b-4d18-9992-e46d0648fd8d.xml
   Vkworld_0fc654ea-d2c4-4578-9aeb-9b2fb3d4c429.xml
   Vkworld_d96fc39e-57c5-42f5-9009-c4dfebffbf02.xml
+  Vmobile_c82c8397-f706-4f81-97f1-07caffb0ab17.xml
   Vmobile_ebe0a75a-f50c-4c4d-b3f2-94d2d0d14843.xml
   Walton_1ab609ad-cb67-4af2-8ab4-623558aa05c9.xml
   Walton_ccdcf45c-6ae4-49aa-a64c-2dbf525e4ee9.xml
